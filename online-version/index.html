@@ -14,7 +14,12 @@
             font-family: Arial;
             min-width: 350px;
             min-height: 700px;
-            margin: 5px;
+            margin-top: 5px;
+            margin-left: 10px;
+            margin-right: 15px;
+            margin-bottom: 5px;
+            overflow-x: hidden;
+            overflow-y: scroll;
           }
 
           #example_filter input {
@@ -84,6 +89,20 @@
             color: white;
           }
 
+          info {
+            font-size: x-small;
+            margin-top: 10px;
+          }
+
+          tag-grey-question {
+            background: grey;
+            border-style: 2px solid grey;
+            padding-left: 3px;
+            padding-right: 3px;
+            color: white;
+            font-size: 9px;
+          }
+
 
           </style>
 
@@ -93,7 +112,7 @@
       </head>
 
       <body>
-        <a href="https://extension-historia.github.io/" target="_blank" style="color:gray;font-size:x-small;margin:10px;text-align:right;">Developed by Lina Lerch  <br> Version 1.0.0 <br> 🯄 Help</a>
+        <p align="right" style="line-height:80%"><info><a href="https://extension-historia.github.io/" target="_blank" style="color:gray">Developed by Lina Lerch  <br> Version 1.0.1 <br> <tag-grey-question>?</tag-grey-question> Help</a></info></p>
 
 
 <table id="example" class="display" style="width:100%" cellspacing="0">
@@ -336,7 +355,7 @@
     </tr>
 
     <tr>
-      <td><a href="http://www.unifr.ch/bkv/index.htm" target="_blank">
+      <td><a href="https://bkv.unifr.ch/de" target="_blank">
           Bibliothek der Kirchenväter (BKV) <tag-grey>English</tag-grey>
           <tag-grey>German</tag-grey>
           <tag-grey>French</tag-grey>
@@ -389,8 +408,8 @@
 
 
     <tr>
-      <td><a href="https://www2i.misha.fr/flora/servlet/LoginServlet" target="_blank">
-          Bulletin Analytique d'Histoire Romaine <tag-grey>English</tag-grey>
+      <td><a href="https://www2i.misha.fr/flora/jsp/index.jsp" target="_blank">
+          Bulletin Analytique d'Histoire Romaine (via MISHA) <tag-grey>English</tag-grey>
           <tag-grey>French</tag-grey>
           <p>A website dedicated to the publications of the <i>Bulletin Analytique</i> d'Histoire Romaine.</p>
         </a></td>
@@ -729,7 +748,7 @@
     </tr>
 
     <tr>
-      <td><a href="http://www.dainst.org/" target="_blank">
+      <td><a href="https://www.dainst.org/dai/meldungen" target="_blank">
           Deutsches Archäologisches Institut (DAI) <tag-grey>German</tag-grey>
           <p>This is the homepage of the <i>Deutsches Archäologisches Institut</i>, dedicated to archeological news and research.</p>
         </a></td>
@@ -1017,7 +1036,7 @@
     </tr>
 
     <tr>
-      <td><a href="https://www.phil.uni-passau.de/histhw/forschung/hilfswissenschaftliche-bibliographie/systematik/palaeographie/" target="_blank">
+      <td><a href="https://www.phil.uni-passau.de/histhw/forschung/hilfswissenschaftliche-bibliographie/systematik/faelschungen/" target="_blank">
           Frenz, T.: Hilfswissenschaftliche Bibliographie - Fälschungen <tag-grey>German</tag-grey>
           <p> A bibliographical list of historical auxiliary studies. This link leads directly to the subpage of forgery.</p>
         </a></td>
@@ -1133,7 +1152,7 @@
 
     <tr>
       <td><a href="https://www.gbd.digital/metaopac/start.do?View=gnomon" target="_blank">
-          Gnomon <tag-grey>German</tag-grey>
+          Gnomon bibliographische Datenbank <tag-grey>German</tag-grey>
           <p>A database for Classical Studies including entries of publications, reviews, lexica as well as newer materials in video format.</p>
         </a></td>
     </tr>
@@ -1156,6 +1175,13 @@
       <td><a href="http://www.gothicivories.courtauld.ac.uk/" target="_blank">
           Gothic Ivories <tag-grey>English</tag-grey>
           <p>A collection of Gothic and Neo-Gothic ivory sculptures from Western Europe.</p>
+        </a></td>
+    </tr>
+
+    <tr>
+      <td><a href="https://grants.jst.go.jp/" target="_blank">
+          GRANTS - Kenkyū kadai tōgō kensaku 研究課題統合検索 [Research topics unified search] <tag-grey>Japanese</tag-grey>
+          <p><i>GRANTS</i> unified the former database <i>KAKEN</i> with the <i>JST project database</i> for academic research topics and researchers in Japan.</p>
         </a></td>
     </tr>
 
@@ -1189,7 +1215,7 @@
 
     <tr>
       <td><a href="http://cftilab.rm.ingv.it/PDF/web/Med2.html" target="_blank">
-          Guidoboni, E. et al.: Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the15th century <tag-grey>English</tag-grey>
+          Guidoboni, E. et al.: Catalogue of earthquakes and tsunamis in the Mediterranean area from the 11th to the 15th century <tag-grey>English</tag-grey>
           <p>A collection / compendium of earthquakes in the Mediterranean Area for climate historical and environmental historical research.</p>
         </a></td>
     </tr>
@@ -1232,7 +1258,7 @@
     </tr>
 
     <tr>
-      <td><a href="https://www.haijiaoshi.com/archives/1306" target="_blank">
+      <td><a href="https://www.haijiaoshi.com/" target="_blank">
           Haijiaoshi 海交史 [History of maritime interactions] <tag-grey>Simplified Chinese</tag-grey>
           <tag-grey>Japanese</tag-grey>
           <p>A blog mainly dedicated to the research of Chinese / Korean / Japanese history and the interaction between those regions.</p>
@@ -1341,7 +1367,7 @@
 
     <tr>
       <td><a href="https://www.hsozkult.de/searching/page" target="_blank">
-          HSozKult <tag-grey>German</tag-grey>
+          HSozKult Suche <tag-grey>German</tag-grey>
           <p>A platform for the research of history in the German language with reviews and news for historians. </p>
         </a></td>
     </tr>
@@ -1528,14 +1554,14 @@
 
     <!--K-->
     <tr>
-      <td><a href="https://koshakyo-database.icabs.ac.jp/" target="_blank">
+      <td><a href="https://kaken.nii.ac.jp/ja/" target="_blank">
           KAKEN - Kenkyū kadai wo sagasu 研究課題をさがす [research topic search] <tag-grey>Japanese</tag-grey>
           <p> A database for academic research topics in Japan.</p>
         </a></td>
     </tr>
 
     <tr>
-      <td><a href="https://koshakyo-database.icabs.ac.jp/" target="_blank">
+      <td><a href="https://nrid.nii.ac.jp/ja/index/" target="_blank">
           KAKEN - Kenkyūshya wo sagasu 研究者をさがす [researcher search] <tag-grey>Japanese</tag-grey>
           <p> A database for academic researchers in Japan.</p>
         </a></td>
@@ -1936,7 +1962,7 @@
     </tr>
 
     <tr>
-      <td><a href="https://koshakyo-database.icabs.ac.jp/" target="_blank">
+      <td><a href="https://www.ndl.go.jp/koyomi/" target="_blank">
           Nihon no koyomi 日本の暦 [Calendars of Japan] <tag-grey>Japanese</tag-grey>
           <p>A website describing historical Japanese calendars for the research in chronology.</p>
         </a></td>
@@ -2264,7 +2290,7 @@
 
     <tr>
       <td><a href="https://www.centrostudimuratoriani.it/strumenti/ris/" target="_blank">
-          Rerum Italicarum Scriptores (RIS) <tag-grey>English</tag-grey>
+          Rerum Italicarum Scriptores (RIS) <tag-grey>Italian</tag-grey>
           <p>The homepage of the <i>Rerum Italicarum Scriptores</i> edition series for Italian historical sources. This link leads directly to a table where a specific volume can be opened digitally.</p>
         </a></td>
     </tr>
@@ -2417,7 +2443,7 @@
     <!--T-->
     <tr>
       <td><a href="http://thdl.ntu.edu.tw/index.html" target="_blank">
-          Taiwan lishi shuwei tushuguan 台灣歷史數位圖書館 [Taiwan History Digital Library] (ZHDL) <tag-grey>Traditional Chinese</tag-grey>
+          Taiwan lishi shuwei tushuguan 台灣歷史數位圖書館 [Taiwan History Digital Library] (THDL) <tag-grey>Traditional Chinese</tag-grey>
           <p>A database of historical sources concerning Taiwan.</p>
         </a></td>
     </tr>
@@ -2733,7 +2759,7 @@
 
     <tr>
       <td><a href="https://de.wikisource.org/wiki/Wirtembergisches_Urkundenbuch/Band_1/Vorrede" target="_blank">
-          Württembergisches Urkundenbuch (Wirtembergisches Urkundenbuch, WUB)- Vorrede (wikisource) <tag-grey>German</tag-grey>
+          Württembergisches Urkundenbuch (Wirtembergisches Urkundenbuch, WUB) - Vorrede (wikisource) <tag-grey>German</tag-grey>
           <p>The digitized version of the <i>charter book of Würtemberg</i> publication series. This link leads directly to the prolog of volume 1.</p>
         </a></td>
     </tr>
