@@ -67,11 +67,24 @@ body {
 }
 
  
+/* Text between <hr> tag */
+
 hr.header {
-border: 0;
-height: 55px;
-background-image: url(icon_128px.png);
-background-repeat: no-repeat;
+padding: 0;
+border: none;
+border-top: medium double #FE6700;
+color: #FE6700;
+text-align: center;
+}
+  
+hr.header:after {
+content: "H";
+display: inline-block;
+position: relative;
+top: -0.7em;
+font-size: 1.5em;
+padding: 0 0.25em;
+background: white;
 }
 
 </style>
