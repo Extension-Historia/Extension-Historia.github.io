@@ -1,296 +1,299 @@
-<!DOCTYPE html>  
-<html>  
-<head>  
+<!DOCTYPE html>
+<html>
+<head>
 <title> Extension Historia Webpage</title>
-<style>
-  h1 {
-  color: gray;
-  text-align: center;
-  font-family: monospace;
-  font-size: xx-large;
-}
+    <style>
+        h1 {
+          color: gray;
+          text-align: center;
+          font-family: monospace;
+          font-size: xx-large;
+        }
 
-h2 {
-  color: gray;
-  text-align: center;
-  font-family: monospace;
-  font-size: medium;
-}
+        h2 {
+          color: gray;
+          text-align: center;
+          font-family: monospace;
+          font-size: medium;
+        }
 
-h3 {
-  color: #FE6700;
-  text-align: center;
-  font-family: monospace;
-  font-size: x-large;
-}
-  
-h4 {
-  color: gray;
-  text-align: center;
-  font-family: monospace;
-  font-size: large;
-}
+        h3 {
+          color: #FE6700;
+          text-align: center;
+          font-family: monospace;
+          font-size: x-large;
+        }
 
-p {
-  color: black;
-  font-family: monospace;
-  text-align: center;
-  font-size: medium;
-}
+        h4 {
+          color: gray;
+          text-align: center;
+          font-family: monospace;
+          font-size: large;
+        }
 
-ul {
-  color: black;
-  font-family: monospace;
-  text-align: left;
-  font-size: medium;
-}
+        p {
+          color: black;
+          font-family: monospace;
+          text-align: center;
+          font-size: medium;
+        }
 
-a {
-  color: black;
-  font-family: monospace;
-}
+        ul {
+          color: black;
+          font-family: monospace;
+          text-align: left;
+          font-size: medium;
+        }
 
-body {
-  margin: 5%;
-  padding: 5%;
-  background: white;
-  }
-  
-.card {
-  /* shadow + background color */
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  border: 0.5px solid grey;
-  text-align: center;
-  transition: 0.3s;
-  padding: 16px;
-  border-radius: 25px;
-}
+        a {
+          color: black;
+          font-family: monospace;
+        }
 
- 
-/* Text between <hr> tag */
+        body {
+          margin: 5%;
+          padding: 5%;
+          background: white;
+          }
 
-hr.header {
-padding: 0;
-border: none;
-border-top: medium double #FE6700;
-color: #FE6700;
-text-align: center;
-width: 80%;
-}
-  
+        .card {
+          /* shadow + background color */
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          border: 0.5px solid grey;
+          text-align: center;
+          transition: 0.3s;
+          padding: 16px;
+          border-radius: 25px;
+        }
 
-</style>
+
+        /* Text between <hr> tag */
+
+        hr.header {
+        padding: 0;
+        border: none;
+        border-top: medium double #FE6700;
+        color: #FE6700;
+        text-align: center;
+        width: 80%;
+        }
+
+
+    </style>
 </head>
 
-<body>  
+<body>
 
-<h1> <img src="icon_128px.png" style="width:40px"> Historia Quick Launcher</h1>
-<h2>a browser integrated bookmark extension for historians</h2>
+    <h1><img src="icon_128px.png" style="width:40px"> Historia Quick Launcher</h1>
+    <h2>a browser integrated bookmark extension for historians</h2>
 
-<hr class="header">
+    <hr class="header">
 
-<p>
-<a href="#about" style="font-size:x-small">ABOUT</a>
-<a href="#onlinev" style="font-size:x-small">ONLINE VERSION</a>
-<a href="#download" style="font-size:x-small">DOWNLOAD EXTENSION</a>
-<a href="#news" style="font-size:x-small">NEWS & LOGS</a>
-<a href="#suggestions" style="font-size:x-small">SUGGESTIONS</a>
-<br>
-<a href="#developer" style="font-size:x-small">DEVELOPER</a>
-<a href="#contributors" style="font-size:x-small">CONTRIBUTORS & CREDITS</a>
-<a href="#license" style="font-size:x-small">LICENSE</a>
-</p>
+    <p>
+        <a href="#about" style="font-size:x-small">ABOUT</a>
+        <a href="#onlinev" style="font-size:x-small">ONLINE VERSION</a>
+        <a href="#download" style="font-size:x-small">DOWNLOAD EXTENSION</a>
+        <a href="#news" style="font-size:x-small">NEWS & LOGS</a>
+        <a href="#suggestions" style="font-size:x-small">SUGGESTIONS</a>
+        <br>
+        <a href="#developer" style="font-size:x-small">DEVELOPER</a>
+        <a href="#contributors" style="font-size:x-small">CONTRIBUTORS & CREDITS</a>
+        <a href="#license" style="font-size:x-small">LICENSE</a>
+    </p>
 
+    <br><br>
 
+    <h3 id="about">About</h3>
+        <p>
+            The entirely open source and free browser extension "Historia" functions as a meta link collector and searcher for websites all over the world.
+            <br><br>
+            It has the following features and advantages:
+        </p>
+        <ul>
+            <li>For Firefox, Microsoft Edge and Chrome based browsers (tested on Firefox, Microsoft Edge, Google Chrome, Chromium and Brave).</li>
+            <li>Currently around 370 links with descriptions integrated.</li>
+            <li>The collected websites are in the following languages: English, German, French, Italian, Spanish, Catalan, Hungarian, Finnish, Japanese, simplified Chinese and traditional Chinese, Korean, Russian. </li>
+            <li>Time span: Antiquity - (mainly Early) Modern Period</li>
+            <li>The links are tested from time to time to avoid dead links. </li>
+            <li>For students, lecturers and amateurs to find already known or new websites.</li>
+            <li>The extension is written in / with: HTML, Javascript, jQuery 3.6.0, jQuery DataTables 1.12.1, CSS, JSON, manifest 2V for Firefox, manifest 3V for Microsoft Edge, Opera and Chrome.</li>
+        </ul>
 
-<br><br>
+        <br><br>
 
-<h3 id="about">About</h3>
-<p>The entirely open source and free browser extension "Historia" functions as a meta link collector and searcher for websites all over the world.
-<br><br>
-It has the following features and advantages:</p>
-<ul>
-  <li>For Firefox, Microsoft Edge and Chrome based browsers (tested on Firefox, Microsoft Edge, Google Chrome, Chromium and Brave).</li>
-  <li>Currently around 370 links with descriptions integrated.</li>
-  <li>The collected websites are in the following languages: English, German, French, Italian, Spanish, Catalan, Hungarian, Finnish, Japanese, simplified Chinese and traditional Chinese, Korean, Russian. </li>
-  <li>Time span: Antiquity - (mainly Early) Modern Period</li>
-  <li>The links are tested from time to time to avoid dead links. </li>
-  <li>For students, lecturers and amateurs to find already known or new websites.</li>
-  <li>The extension is written in / with: HTML, Javascript, jQuery 3.6.0, jQuery DataTables 1.12.1, CSS, JSON, manifest 2V for Firefox, manifest 3V for Microsoft Edge, Opera and Chrome.</li>
-</ul>
+        <p>
+            DISCLAIMER: Please note that the extension, developer and contributors are not responsible for the content of the links. The extension "Historia" is a voluntarily work to help researchers all around the world.
+        </p>
 
-<br><br>
+    <br>
 
-<p>
-DISCLAIMER: Please note that the extension, developer and contributors are not responsible for the content of the links. The extension "Historia" is a voluntarily work to help researchers all around the world.
+    <h3 id="onlinev">Online version / demo </h3>
 
-</p>
-<br>
-  
-<h3 id="onlinev">Online version / demo </h3>
-  
-<div class="card" style="text-align:center;">
-  
-<p>
-For demonstration purposes as well as for not supported browsers, you can use the online version. No download is required. Feel free to bookmark the site.
+        <div class="card" style="text-align:center;">
 
-<br>
-<p><a href = "https://extension-historia.github.io/online-version/index.html" target="_blank">Klick here for the ONLINE VERSION</a></p>
-  
+        <p>
+            For demonstration purposes as well as for not supported browsers, you can use the online version. No download is required. Feel free to bookmark the site.
+        </p>
 
-<br><br> 
-<img src="Screenshot-onlinev.png" style="width:600px"> 
+        <br>
 
-</p>
-</div>
-<br>
-  
-  
+        <p>
+            <a href = "https://extension-historia.github.io/online-version/index.html" target="_blank">Klick here for the ONLINE VERSION</a>
+        </p>
 
-<h3 id="download">How to download the extension</h3>
-  
-<div class="card" style="text-align:center;">
-  
-<h4>Firefox</h4>
+        <br><br>
 
-<p>
+        <img src="Screenshot-onlinev.png" style="width:600px">
 
-#option1: <a href = "https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank">download and activate with Firefox Add-Ons</a>
-
-<br><br>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search"><img src="firefox-get-the-addon.png"></a>
-  
-  
-<br><br>
-
-#option2: download the <a href = "https://github.com/Extension-Historia/source-code-firefox" target="_blank">source code</a> from Github and install it manually.
-
-  <br><br> 
-<img src="Screenshot-historia-firefox.png" style="width:600px"> 
-  
-</div>
-  
-
-<br><br>  
-  
-<div class="card" style="text-align:center;">
-<h4>Opera Beta / Opera Developer</h4>
-
-<p>
-
-#option1: <a href = "https://addons.opera.com/en/extensions/details/historia-quick-launcher/" target="_blank">download and activate with Opera Addons </a> 
-<p style="color:red;">This is only working with Opera BETA and Opera DEVELOPER! The normal Opera version is currently in the process of getting approved by Opera.</p>
-
-<br><br>
-<a href="https://addons.opera.com/en/extensions/details/historia-quick-launcher/"><img src="addons_206x58_en.png"></a>
-
- 
-  
-<br><br>
-
-#option2: download the <a href = "https://github.com/Extension-Historia/source-code-opera" target="_blank">source code</a> from Github and install it manually.
-
-<br><br> 
-<img src="Screenshot-historia-opera.png" style="width:600px"> 
-</p>  
-</div>
-
-<br><br> 
-
-<div class="card" style="text-align:center;">
-<h4>Microsoft Edge</h4>
-
-<p>
-<p style="color:red;">Manual installation only! The manual install does NOT update itself automatically!</p>
-<br><br>
-  
-#option: download the <a href = "https://github.com/Extension-Historia/source-code-microsoft-edge" target="_blank">source code</a> from Github and install it manually.
-
-</p>
-  
-</div>
-<br><br>  
-
-  
-<div class="card" style="text-align:center;">  
-<h4>Chrome / Chromium / Brave</h4>
-
-<p>
-<p style="color:red;">Manual installation only! The manual install does NOT update itself automatically!</p>
-<br><br>
-  
-#option: download the <a href = "https://github.com/Extension-Historia/source-code-chrome" target="_blank">source code</a> from Github
-
-  
-</p>
-
-  
-</div>
-<br><br>    
-  
-<br>
-<h3 id="news">News & Logs</h3>
-  
-<p>
-9. August 2022: Version 1.0.0 was launched on Firefox Add-Ons.
-<br> <br>
-August 2022: Beta version completed with around 370 links.
-<br><br>
-July/August 2022: The formerly used javascript code from javascript search function based off this <a href = "https://stackoverflow.com/questions/30580844/filtering-a-list-with-jquery-when-multiple-words-are-entered-as-input-using-an" target="_blank">code</a> was replaced by the jQuery DataTables plugin for jQuery to ensure the search functionality for Japanese, Korean, Chinese and Russian. 
-<br><br>
-Spring 2022: Project launch</p>
-
-<br>
-<h3 id="suggestions">How to send in suggestions</h3>
-<p>If you have any suggestions, want a website to be added or want to report a problem, you have the following options:<br><br>
-#option1: Program it yourself and make a pull-request on Github.
-<br><br>
-#option2: Please write an eMail to the <a href = "mailto: lina.lerch.edu@tutanota.com">main developer</a>  of the extension. For suggestions, please provide the link of the website, its official name and a short description of the website in English. 
-</p>
+        </div>
+    <br>
 
 
-<br>
-<h3 id="developer">Developer</h3>
-<p>Lina Lerch</p>
-<p style="font-size: small"> Started the project in Spring 2022 
-<br>
-Project idea as well as the entire programming process including design, functionalities, information gathering & research, descriptions and translations, contributer recruitment and advertisement were all done by Lerch with the exceptions listed below under "Contributors" and "License".
-<br>
-<a href = "mailto: lina.lerch.edu@tutanota.com">Contact via mail</a></p>
 
-<br>
-<h3 id="contributors">Further contributors & credits</h3>
+    <h3 id="download">How to download the extension</h3>
 
-<p> John Hinderer</p>
-<p style="font-size: small">Contributed 36 links and 3 descriptions</p>
+        <div class="card" style="text-align:center;">
 
-<br>
-  
-<p> Eric Böhme</p>
-<p style="font-size: small">Contributed 5 links</p>
+            <h4>Firefox</h4>
 
-<br>
-  
-<p> Sven Jaros</p>
-<p style="font-size: small">Contributed 4 links</p>
+                <p>
+                    #option1: <a href = "https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank">download and activate with Firefox Add-Ons</a>
+                </p>
 
-<br>
-  
-<p>Thanks to the online open source community for providing coding information in general, without which this project would never have been developed.</p>
+                <br><br>
 
-  
-<br>
-<h3 id="license">License</h3>
-<p>The extension Historia itself is  licensed under <a href = "https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>. 
-<br><br>
-jquery-3.6.0.js, jquery.dataTables.min.js and jquery.dataTables.min.css are all licensed under the MIT license.
-  
-  
-</p>
+                <a href="https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search"><img src="firefox-get-the-addon.png"></a>
+
+            <br><br>
+
+                <p>
+                    #option2: download the <a href = "https://github.com/Extension-Historia/source-code-firefox" target="_blank">source code</a> from Github and install it manually.
+                </p>
+
+                <br><br>
+
+                <img src="Screenshot-historia-firefox.png" style="width:600px">
+
+        </div>
+
+        <br><br>
+
+        <div class="card" style="text-align:center;">
+            <h4>Opera Beta / Opera Developer</h4>
+
+                <p>
+                    #option1: <a href = "https://addons.opera.com/en/extensions/details/historia-quick-launcher/" target="_blank">download and activate with Opera Addons </a>
+                </p>
+
+                <p style="color:red;">This is only working with Opera BETA and Opera DEVELOPER! The normal Opera version is currently in the process of getting approved by Opera.</p>
+
+                <br><br>
+
+                <a href="https://addons.opera.com/en/extensions/details/historia-quick-launcher/"><img src="addons_206x58_en.png"></a>
+
+                <br><br>
+
+                <p>
+                    #option2: download the <a href = "https://github.com/Extension-Historia/source-code-opera" target="_blank">source code</a> from Github and install it manually.
+                </p>
+
+                <br><br>
+
+                <img src="Screenshot-historia-opera.png" style="width:600px">
+        </div>
+
+        <br><br>
+
+        <div class="card" style="text-align:center;">
+            <h4>Microsoft Edge</h4>
+
+                <p style="color:red;">Manual installation only! The manual install does NOT update itself automatically!</p>
+
+                <br><br>
+
+                <p>
+                    #option: download the <a href = "https://github.com/Extension-Historia/source-code-microsoft-edge" target="_blank">source code</a> from Github and install it manually.
+                </p>
+
+        </div>
+
+            <br><br>
+
+        <div class="card" style="text-align:center;">
+            <h4>Chrome / Chromium / Brave</h4>
+
+                <p style="color:red;">Manual installation only! The manual install does NOT update itself automatically!</p>
+
+            <br><br>
+                <p>
+                    #option: download the <a href = "https://github.com/Extension-Historia/source-code-chrome" target="_blank">source code</a> from Github
+                </p>
+
+        </div>
+
+    <br><br>
+
+    <br>
+    <h3 id="news">News & Logs</h3>
+
+        <p>
+            9. August 2022: Version 1.0.0 was launched on Firefox Add-Ons.
+            <br> <br>
+            August 2022: Beta version completed with around 370 links.
+            <br><br>
+            July/August 2022: The formerly used javascript code from javascript search function based off this <a href = "https://stackoverflow.com/questions/30580844/filtering-a-list-with-jquery-when-multiple-words-are-entered-as-input-using-an" target="_blank">code</a> was replaced by the jQuery DataTables plugin for jQuery to ensure the search functionality for Japanese, Korean, Chinese and Russian.
+            <br><br>
+            Spring 2022: Project launch</p>
+
+    <br>
+
+    <h3 id="suggestions">How to send in suggestions</h3>
+
+        <p>If you have any suggestions, want a website to be added or want to report a problem, you have the following options:<br><br>
+            #option1: Program it yourself and make a pull-request on Github.
+            <br><br>
+            #option2: Please write an eMail to the <a href = "mailto: lina.lerch.edu@tutanota.com">main developer</a>  of the extension. For suggestions, please provide the link of the website, its official name and a short description of the website in English.
+        </p>
 
 
-  
-  
-  
-</body>  
-</html>  
+    <br>
+
+
+    <h3 id="developer">Developer</h3>
+        <p>Lina Lerch</p>
+        <p style="font-size: small"> Started the project in Spring 2022
+        <br>
+        Project idea as well as the entire programming process including design, functionalities, information gathering & research, descriptions and translations, contributer recruitment and advertisement were all done by Lerch with the exceptions listed below under "Contributors" and "License".
+        <br>
+        <a href = "mailto: lina.lerch.edu@tutanota.com">Contact via mail</a></p>
+
+        <br>
+        <h3 id="contributors">Further contributors & credits</h3>
+
+        <p> John Hinderer</p>
+        <p style="font-size: small">Contributed 36 links and 3 descriptions</p>
+
+        <br>
+
+        <p> Eric Böhme</p>
+        <p style="font-size: small">Contributed 5 links</p>
+
+        <br>
+
+        <p> Sven Jaros</p>
+        <p style="font-size: small">Contributed 4 links</p>
+
+        <br>
+
+        <p>Thanks to the online open source community for providing coding information in general, without which this project would never have been developed.</p>
+
+
+    <br>
+    <h3 id="license">License</h3>
+        <p>The extension Historia itself is  licensed under <a href = "https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>.
+        <br><br>
+        jquery-3.6.0.js, jquery.dataTables.min.js and jquery.dataTables.min.css are all licensed under the MIT license.
+        </p>
+
+</body>
+</html>
