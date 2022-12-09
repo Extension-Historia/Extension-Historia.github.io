@@ -5,7 +5,8 @@ $(document).ready(function () {
         info: true,
   			"language": {
     					"search": "",
-              "searchPlaceholder": "Search..."
+                        "searchPlaceholder": "Search...",
+                        "info": "Showing _END_ of _TOTAL_ entries"
   			},
         "sDom": '<"top"<"actions">lfpi<"clear">><"clear">rt<"bottom">'
 
