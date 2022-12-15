@@ -6,7 +6,9 @@ $(document).ready(function () {
   			"language": {
     					"search": "",
                         "searchPlaceholder": "Search...",
-                        "info": "Showing _TOTAL_ entries"
+                        "fnInfoCallback": function (Settings, Start, End, Max, Total, Pre) {
+          return " Showing " + Total;
+      }
   			},
         "sDom": '<"top"<"actions">lfpi<"clear">><"clear">rt<"bottom">'
 
