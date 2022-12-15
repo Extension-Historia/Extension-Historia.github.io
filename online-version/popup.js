@@ -6,7 +6,8 @@ $(document).ready(function () {
   			"language": {
     					"search": "",
                         "searchPlaceholder": "Search...",
-                        "info": "Showing _TOTAL_ entries"
+                        "infoCallback": function( settings, start, end, max, total, pre ) {
+    return start +" to "+ end;
   			},
         "sDom": '<"top"<"actions">lfpi<"clear">><"clear">rt<"bottom">'
 
