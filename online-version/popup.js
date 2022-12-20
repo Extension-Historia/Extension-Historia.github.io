@@ -7,7 +7,8 @@ $(document).ready(function () {
     					"search": "",
                         "searchPlaceholder": "Search...",
                         "info": "Showing _TOTAL_ from _MAX_ entries",
-                        "infoFiltered": ""
+                        "infoFiltered": "",
+                        "infoEmpty": ""
   			},
         "sDom": '<"top"<"actions">lfpi<"clear">><"clear">rt<"bottom">'
 
