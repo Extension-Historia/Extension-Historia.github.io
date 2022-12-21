@@ -6,7 +6,7 @@ $(document).ready(function () {
   			"language": {
     					"search": "",
                         "searchPlaceholder": "Search...",
-                        "info": "Showing _TOTAL_ from _MAX_ entries",
+                        "info": "&nbsp;&nbsp;Showing _TOTAL_ from _MAX_ entries",
                         "infoFiltered": "",
                         "infoEmpty": ""
   			},
