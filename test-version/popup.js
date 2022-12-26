@@ -32,13 +32,7 @@ $(document).ready(function() {
                     columns: [1, 2]
             }
             },
-            {
-                extend: 'pdf',
-                messageTop: 'DUMMY MESSAGE',
-                exportOptions: {
-                    columns: [1, 2]
-            }
-            },
+            
             {
                 extend: 'print',
                 messageTop: 'DUMMY MESSAGE',
