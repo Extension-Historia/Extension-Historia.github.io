@@ -132,6 +132,10 @@
           text-align: left;
         }
 
+        .infobox {
+          border: 2px solid #FE5F00 !important;
+        }
+
 
 
         /* advanced search checkbox color */
