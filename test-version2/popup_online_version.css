@@ -125,11 +125,14 @@
         }
 
 
-        /* container for checkboxes*/
-        .container {
-          overflow-y: scroll;
-          height: 15em;
+        /* card for checkboxes*/
+        .card-body {
+          overflow: auto;
+          height: 9em;
+          text-align: left;
         }
+
+
 
         /* advanced search checkbox color */
         input[name="key"] {
