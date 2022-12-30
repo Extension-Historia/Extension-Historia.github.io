@@ -1,0 +1,99 @@
+h1 {
+  color: gray;
+  text-align: center;
+  font-size: xx-large;
+}
+
+h2 {
+  color: gray;
+  text-align: center;
+  font-size: medium;
+}
+
+h3 {
+  color: #FE6700;
+  text-align: center;
+  font-size: x-large;
+}
+
+h4 {
+  color: gray;
+  text-align: center;
+  font-size: large;
+}
+
+p {
+  color: black;
+  text-align: center;
+  font-size: medium;
+}
+
+ul {
+  color: black;
+  text-align: left;
+  font-size: medium;
+}
+
+a {
+  color: black;
+}
+
+
+.card {
+  /* shadow + background color */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: 0.5px solid grey;
+  text-align: center;
+  transition: 0.3s;
+  padding: 16px;
+  border-radius: 25px;
+}
+
+
+/* Text between <hr> tag */
+
+hr.header {
+  padding: 0;
+  border: none;
+  border-top: medium double #FE6700;
+  color: #FE6700;
+  text-align: center;
+  width: 80%;
+}
+
+.section-white {
+  background-color: white;
+}
+
+.section-orange {
+  background-color: #feefe5;
+}
+
+
+.navbar {
+  background-color: #FE6700;
+}
+
+.hero-card {
+  background-color: #FE6700;
+  color: white;
+  border: none;
+}
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.h-icon {
+  border: 2px solid white;
+  width: 35px;
+  height: 35px;
+  text-align: center;
+  font-family: helvetica neue;
+  font-size: 22px;
+}
