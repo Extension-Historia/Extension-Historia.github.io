@@ -1,319 +1,228 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Historia Quick Launcher Project Page: Project Page of Historia Quick Launcher, a browser plugin and online site with pre-collected links of websites that might help the research of history, regardless of topic, era and region.</title>
 <meta name="description" content="Quick Launch App for Historians">
-    <style>
-        h1 {
-          color: gray;
-          text-align: center;
-          font-family: monospace;
-          font-size: xx-large;
-        }
 
-        h2 {
-          color: gray;
-          text-align: center;
-          font-family: monospace;
-          font-size: medium;
-        }
-
-        h3 {
-          color: #FE6700;
-          text-align: center;
-          font-family: monospace;
-          font-size: x-large;
-        }
-
-        h4 {
-          color: gray;
-          text-align: center;
-          font-family: monospace;
-          font-size: large;
-        }
-
-        p {
-          color: black;
-          font-family: monospace;
-          text-align: center;
-          font-size: medium;
-        }
-
-        ul {
-          color: black;
-          font-family: monospace;
-          text-align: left;
-          font-size: medium;
-        }
-
-        a {
-          color: black;
-          font-family: monospace;
-        }
-
-        body {
-          margin: 5%;
-          padding: 5%;
-          background: white;
-          }
-
-        .card {
-          /* shadow + background color */
-          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-          border: 0.5px solid grey;
-          text-align: center;
-          transition: 0.3s;
-          padding: 16px;
-          border-radius: 25px;
-        }
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="style.css">
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 
 
-        /* Text between <hr> tag */
-
-        hr.header {
-        padding: 0;
-        border: none;
-        border-top: medium double #FE6700;
-        color: #FE6700;
-        text-align: center;
-        width: 80%;
-        }
-
-
-    </style>
 </head>
 
-<body>
+<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="50">
+  <nav class="navbar navbar-expand-sm navbar-dark fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <div class="h-icon">H</div>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#about">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#guide">Guide</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#versions">Versions</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#news">News</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#suggestions">Suggestions</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#developer">Developer</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contributors">Contributors & Credits</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#license">License</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
 
-    <h1><img src="icon_128px.png" alt="Historia Quick Launcher Icon" style="width:40px"> Historia Quick Launcher</h1>
-    <h2>a browser integrated bookmark extension for historians</h2>
+    <div class="container hero">
+      <div class="row align-items-center mt-5 g-5">
+        <div class="col-sm-6">
+          <h1 class="display-5 fw-bold lh-1 mb-3">Historia Quick Launcher</h1>
+          <p class="lead">A browser integrated website collection for historians.</p>
+          <div class="btn-group mb-3">
+                <button type="button" class="btn btn-outline-secondary rounded m-2">Online Version</button>
+                <div class="dropdown">
+                    <button type="button" class="btn btn-outline-secondary dropdown-toggle m-2" data-bs-toggle="dropdown">
+                        Download
+                </button>
+                <ul class="dropdown-menu">
+                  <li>
+                    <h5 class="dropdown-header">Browser Stores</h5>
+                  </li>
+                  <li><a class="dropdown-item" href="https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank">Firefox</a></li>
+                  <li><a class="dropdown-item" href="https://addons.opera.com/en/extensions/details/historia-quick-launcher/" target="_blank">Opera BETA / DEV</a></li>
+                  <li>
+                    <h5 class="dropdown-header">Manual installation</h5>
+                  </li>
+                  <li><a class="dropdown-item" href="https://github.com/Extension-Historia/source-code-firefox" target="_blank">Firefox</a></li>
+                  <li><a class="dropdown-item" href="https://github.com/Extension-Historia/source-code-opera" target="_blank">Opera</a></li>
+                  <li><a class="dropdown-item" href="https://github.com/Extension-Historia/source-code-chrome" target="_blank">Chrome</a></li>
+                  <li><a class="dropdown-item" href="https://github.com/Extension-Historia/source-code-microsoft-edge" target="_blank">Microsoft Edge</a></li>
+                </ul>
+              </div>
+          </div>
 
-    <hr class="header">
 
-    <p>
-        <a href="#about" style="font-size:x-small">ABOUT</a>
-        <a href="#onlinev" style="font-size:x-small">ONLINE VERSION</a>
-        <a href="#download" style="font-size:x-small">DOWNLOAD EXTENSION</a>
-        <a href="#news" style="font-size:x-small">NEWS & LOGS</a>
-        <a href="#suggestions" style="font-size:x-small">SUGGESTIONS</a>
-        <br>
-        <a href="#developer" style="font-size:x-small">DEVELOPER</a>
-        <a href="#contributors" style="font-size:x-small">CONTRIBUTORS & CREDITS</a>
-        <a href="#license" style="font-size:x-small">LICENSE</a>
-    </p>
+          <div class="card rounded-1 shadow hero-card">
+            <div class="card-body"> Actual version: 1.1.0 for all versions except for Opera BETA and DEV. <br> Next update planned for Spring / Summer 2023!</div>
+          </div>
+        </div>
+        <div class="col-sm-6">
 
-    <br><br>
-    
-    <p style="color:red;">Actual version: 1.1.0 for all versions except for Opera BETA and DEV. <br> Next update planned for Spring / Summer 2023</p>
-    
-    <br><br>
+          <img src="Screenshot-historia-firefox.png" class="d-block mx-lg-auto img-fluid shadow" alt="Screenshot Historia Firefox" width="700" height="500" loading="lazy">
 
-    <h3 id="about">About</h3>
-        <p>
-            The entirely open source and free browser extension "Historia" functions as a meta link collector and searcher for websites all over the world.
-            <br><br>
-            It has the following features and advantages:
-        </p>
-        <ul>
-            <li>For Firefox, Opera, Microsoft Edge and Chrome based browsers + online version for all users.</li>
-            <li>Currently around 610 links with descriptions integrated.</li>
-            <li>The collected websites are in the following languages: English, German, French, Italian, Spanish, Catalan, Portuguese, Hungarian, Dutch, Finnish, Japanese, simplified Chinese and traditional Chinese, Korean, Russian, Hebrew. </li>
-            <li>Time span: Antiquity - (mainly Early) Modern Period</li>
-            <li>The links are tested from time to time to avoid dead links. </li>
-            <li>For students, lecturers and amateurs to find already known or new websites.</li>
-            <li>The extension is written in / with: HTML, Javascript, jQuery 3.6.2, jQuery dataTables 1.13.1, CSS, JSON, manifest 2V for Firefox, manifest 3V for Microsoft Edge, Opera and Chrome.</li>
-        </ul>
 
+
+        </div>
+      </div>
+    </div>
+
+
+    <div class="section-orange p-5">
+      <h3 id="about">About</h3>
+      <p>
+        The entirely open source and free browser extension "Historia Quick Launcher" (short: "Historia") functions as a meta link collector and searcher for websites all over the world.
         <br><br>
+        It has the following features and advantages:
+      </p>
+      <ul>
+        <li>For Firefox, Opera, Microsoft Edge and Chrome based browsers + online version for all users.</li>
+        <li>Currently around 610 links with descriptions integrated.</li>
+        <li>The collected websites are in the following languages: English, German, French, Italian, Spanish, Catalan, Portuguese, Hungarian, Dutch, Finnish, Japanese, simplified Chinese and traditional Chinese, Korean, Russian, Hebrew. </li>
+        <li>Time span: Antiquity - (mainly Early) Modern Period</li>
+        <li>The links are tested from time to time to avoid dead links. </li>
+        <li>For students, lecturers and amateurs to find already known or new websites.</li>
+        <li>The extension is written in / with: HTML, Javascript, jQuery 3.6.2, jQuery dataTables 1.13.1, CSS, JSON, manifest 2V for Firefox, manifest 3V for Microsoft Edge, Opera and Chrome.</li>
+      </ul>
+
+      <br><br>
+
+      <p>
+        DISCLAIMER: Please note that the extension, developer and contributors are not responsible for the content of the links. The extension "Historia" is a voluntarily work to help researchers all around the world.
+      </p>
+      <br>
+    </div>
+
+    <div class="section-white p-5">
+      <h3 id="guide">Guide</h3>
 
         <p>
-            DISCLAIMER: Please note that the extension, developer and contributors are not responsible for the content of the links. The extension "Historia" is a voluntarily work to help researchers all around the world.
+          Coming soon!
         </p>
 
-    <br>
+    </div>
 
-    <h3 id="onlinev">Online version / demo </h3>
-
-        <div class="card" style="text-align:center;">
+    <div class="section-orange p-5">
+      <h3 id="versions">Versions</h3>
 
         <p>
-            For demonstration purposes as well as for not supported browsers, you can use the online version. No download is required. Feel free to bookmark the site.
+          Coming soon!
         </p>
 
-        <br>
+    </div>
 
-        <p>
-            <a href = "https://extension-historia.github.io/online-version/index.html" target="_blank">Click here for the ONLINE VERSION</a>
-        </p>
 
+    <div class="section-white p-5">
+      <h3 id="news">News & Logs</h3>
+
+      <p>
+        <br> <br>
+        Next version is planned for Spring / Summer 2023 with an additional checkbox filter for the online version
+        <br> <br>
+        22. December 2022: 1.1.0 released on Firefox & online version
+        <br> <br>
+        August / September: Version 1.0.1 was released on Firefox Add-Ons and Opera Beta / Developer with minor bug fixes. Manual install versions for Microsoft Edge and Chrome-based browsers were uploaded on Github. Online version was created. All versions are 1.0.1.
+        <br> <br>
+        9. August 2022: Version 1.0.0 was launched on Firefox Add-Ons.
+        <br> <br>
+        August 2022: Beta version completed with around 370 links.
         <br><br>
-
-        <img src="Screenshot-onlinev.png" alt="Screenshot Historia Online Version" style="width:70%">
-
-        </div>
-    <br>
-
-
-
-    <h3 id="download">How to download the extension</h3>
-
-        <div class="card" style="text-align:center;">
-
-            <h4>Firefox</h4>
-
-                <p>
-                    #option1: <a href = "https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank">download and activate with Firefox Add-Ons</a>
-                </p>
-
-                <br><br>
-
-                <a href="https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search"><img src="firefox-get-the-addon.png" alt="Firefox Store Button" ></a>
-
-            <br><br>
-
-                <p>
-                    #option2: download the <a href = "https://github.com/Extension-Historia/source-code-firefox" target="_blank">source code</a> from Github and install it manually.
-                </p>
-
-                <br><br>
-
-                <img src="Screenshot-historia-firefox.png" alt="Screenshot Historia Firefox" style="width:70%">
-
-        </div>
-
+        July/August 2022: The formerly used javascript code from javascript search function based off this <a href="https://stackoverflow.com/questions/30580844/filtering-a-list-with-jquery-when-multiple-words-are-entered-as-input-using-an" target="_blank">code</a> was replaced by the jQuery DataTables plugin for jQuery to ensure the search functionality for Japanese, Korean, Chinese and Russian.
         <br><br>
+        Spring 2022: Project launch</p>
 
-        <div class="card" style="text-align:center;">
-            <h4>Opera Beta / Opera Developer</h4>
+      <br>
+    </div>
 
-                <p>
-                    #option1: <a href = "https://addons.opera.com/en/extensions/details/historia-quick-launcher/" target="_blank">download and activate with Opera Addons </a>
-                </p>
+    <div class="section-orange p-5">
+      <h3 id="suggestions">How to send in suggestions</h3>
 
-                <p style="color:red;">This is only working with Opera BETA and Opera DEVELOPER! The normal Opera version is currently in the process of getting approved by Opera.</p>
-
-                <br><br>
-
-                <a href="https://addons.opera.com/en/extensions/details/historia-quick-launcher/"><img src="addons_206x58_en.png" alt="Opera Store Button"></a>
-
-                <br><br>
-
-                <p>
-                    #option2: download the <a href = "https://github.com/Extension-Historia/source-code-opera" target="_blank">source code</a> from Github and install it manually.
-                </p>
-
-                <br><br>
-
-                <img src="Screenshot-historia-opera.png" alt="Screenshot Historia Opera" style="width:70%">
-        </div>
-
+      <p>If you have any suggestions, want a website to be added or want to report a problem, you have the following options:<br><br>
+        #option1: Program it yourself and make a pull-request on Github.
         <br><br>
+        #option2: Please write an eMail to the <a href="mailto: lina.lerch.edu@tutanota.com">main developer</a> of the extension. For suggestions, please provide the link of the website, its official name and a short description of the website in English.
+      </p>
 
-        <div class="card" style="text-align:center;">
-            <h4>Microsoft Edge</h4>
-
-                <p style="color:red;">Manual installation only! The manual install does NOT update itself automatically!</p>
-
-                <br>
-
-                <p>
-                    #option: download the <a href = "https://github.com/Extension-Historia/source-code-microsoft-edge" target="_blank">source code</a> from Github and install it manually.
-                </p>
-
-        </div>
-
-            <br><br>
-
-        <div class="card" style="text-align:center;">
-            <h4>Chrome / Chromium / Brave</h4>
-
-                <p style="color:red;">Manual installation only! The manual install does NOT update itself automatically!</p>
-
-                <br>
-            
-                <p>
-                    #option: download the <a href = "https://github.com/Extension-Historia/source-code-chrome" target="_blank">source code</a> from Github and install it manually.
-                </p>
-
-        </div>
-
-    <br><br>
-
-    <br>
-    <h3 id="news">News & Logs</h3>
-
-        <p>
-            <br> <br> 
-            Next version is planned for Spring / Summer 2023 with an additional checkbox filter for the online version
-            <br> <br> 
-            22. December 2022: 1.1.0 released on Firefox & online version
-            <br> <br> 
-            August / September: Version 1.0.1 was released on Firefox Add-Ons and Opera Beta / Developer with minor bug fixes. Manual install versions for Microsoft Edge and Chrome-based browsers were uploaded on Github. Online version was created. All versions are 1.0.1.
-            <br> <br>
-            9. August 2022: Version 1.0.0 was launched on Firefox Add-Ons.
-            <br> <br>
-            August 2022: Beta version completed with around 370 links.
-            <br><br>
-            July/August 2022: The formerly used javascript code from javascript search function based off this <a href = "https://stackoverflow.com/questions/30580844/filtering-a-list-with-jquery-when-multiple-words-are-entered-as-input-using-an" target="_blank">code</a> was replaced by the jQuery DataTables plugin for jQuery to ensure the search functionality for Japanese, Korean, Chinese and Russian.
-            <br><br>
-            Spring 2022: Project launch</p>
-
-    <br>
-
-    <h3 id="suggestions">How to send in suggestions</h3>
-
-        <p>If you have any suggestions, want a website to be added or want to report a problem, you have the following options:<br><br>
-            #option1: Program it yourself and make a pull-request on Github.
-            <br><br>
-            #option2: Please write an eMail to the <a href = "mailto: lina.lerch.edu@tutanota.com">main developer</a>  of the extension. For suggestions, please provide the link of the website, its official name and a short description of the website in English.
-        </p>
+    </div>
 
 
-    <br>
-
-
-    <h3 id="developer">Developer</h3>
-        <p>Lina Lerch</p>
-        <p style="font-size: small"> Started the project in Spring 2022
+    <div class="section-white p-5">
+      <h3 id="developer">Developer</h3>
+      <p>Lina Lerch</p>
+      <p style="font-size: small"> Started the project in Spring 2022
         <br>
         Project idea as well as the entire programming process including design, functionalities, information gathering & research, descriptions and translations, contributer recruitment and advertisement were all done by Lerch with the exceptions listed below under "Contributors" and "License".
         <br>
-        <a href = "mailto: lina.lerch.edu@tutanota.com">Contact via mail</a></p>
+        <a href="mailto: lina.lerch.edu@tutanota.com">Contact via mail</a></p>
+    </div>
 
-        <br>
-        <h3 id="contributors">Further contributors & credits</h3>
-        
-        <p> Franziska Naether</p>
-        <p style="font-size: small">Contributed 98 links</p>
-    
-        <br>
-    
-        <p> John Hinderer</p>
-        <p style="font-size: small">Contributed 39 links and 3 descriptions</p>
+    <div class="section-orange p-5">
+      <h3 id="contributors">Further contributors & credits</h3>
 
-        <br>
+      <p> Franziska Naether</p>
+      <p style="font-size: small">Contributed 98 links</p>
 
-        <p> Eric Böhme</p>
-        <p style="font-size: small">Contributed 5 links</p>
+      <br>
 
-        <br>
+      <p> John Hinderer</p>
+      <p style="font-size: small">Contributed 39 links and 3 descriptions</p>
 
-        <p> Sven Jaros</p>
-        <p style="font-size: small">Contributed 4 links</p>
+      <br>
 
-        <br>
+      <p> Eric Böhme</p>
+      <p style="font-size: small">Contributed 5 links</p>
 
-        <p>Thanks to the online open source community for providing coding information in general, without which this project would never have been developed.</p>
+      <br>
+
+      <p> Sven Jaros</p>
+      <p style="font-size: small">Contributed 4 links</p>
+
+      <br>
+
+      <p>Thanks to the online open source community for providing coding information in general, without which this project would never have been developed.</p>
+    </div>
 
 
-    <br>
-    <h3 id="license">License</h3>
-        <p>The extension Historia itself is  licensed under <a href = "https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>.
+    <div class="section-white p-5">
+      <h3 id="license">License</h3>
+      <p>The extension Historia itself is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">CC BY-SA 4.0</a>.
         <br><br>
-        jquery-3.6.0.js, jquery.dataTables.min.js and jquery.dataTables.min.css are all licensed under the MIT license.
-        </p>
+        jquery, jquery.dataTables.min.js and jquery.dataTables.min.css are all licensed under the MIT license.
+      </p>
+    </div>
+
+
+
+
 
 </body>
 </html>
