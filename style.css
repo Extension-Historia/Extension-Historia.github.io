@@ -1,31 +1,14 @@
-h1 {
-  color: gray;
-  text-align: center;
-  font-size: xx-large;
-}
-
-h2 {
-  color: gray;
-  text-align: center;
-  font-size: medium;
-}
-
 h3 {
   color: #FE6700;
   text-align: center;
-  font-size: x-large;
+  font-size: 2em !important;
+  font-weight: bolder;
 }
 
-h4 {
-  color: gray;
-  text-align: center;
-  font-size: large;
-}
 
 p {
   color: black;
   text-align: center;
-  font-size: medium;
 }
 
 ul {
@@ -40,27 +23,6 @@ a {
 }
 
 
-.card {
-  /* shadow + background color */
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  border: 0.5px solid grey;
-  text-align: center;
-  transition: 0.3s;
-  padding: 16px;
-  border-radius: 25px;
-}
-
-
-/* Text between <hr> tag */
-
-hr.header {
-  padding: 0;
-  border: none;
-  border-top: medium double #FE6700;
-  color: #FE6700;
-  text-align: center;
-  width: 80%;
-}
 
 .section-white {
   background-color: white;
@@ -97,4 +59,34 @@ hr.header {
   text-align: center;
   font-family: helvetica neue;
   font-size: 22px;
+}
+
+.bi {
+  color: #FE6700;
+}
+
+.about-card {
+  background-color: transparent;
+  border: none;
+  shadow: none;
+}
+
+.about-p {
+  text-align: left;
+  padding-left: 15%;
+  padding-right: 15%;
+  shadow: none;
+}
+
+.important-text {
+  text-align: center;
+  font-weight: bold;
+  color: #FE6700;
+}
+
+.subtitle {
+  text-align: center;
+  color: #FE6700;
+  font-size: larger;
+  font-weight: bolder;
 }
