@@ -7,6 +7,7 @@
 <meta name="description" content="Quick Launch App for Historians">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
 <link rel="stylesheet" href="style.css">
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -28,10 +29,10 @@
               <a class="nav-link" href="#about">About</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#guide">Guide</a>
+              <a class="nav-link" href="#versions">Versions</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#versions">Versions</a>
+              <a class="nav-link" href="#guide">Guide</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#news">News</a>
@@ -56,7 +57,7 @@
     <div class="container hero">
       <div class="row align-items-center mt-5 g-5">
         <div class="col-sm-6">
-          <h1 class="display-5 fw-bold lh-1 mb-3">Historia Quick Launcher</h1>
+          <h1 class="display-5 fw-bold lh-1 mb-3" style="color:grey;">Historia Quick Launcher</h1>
           <p class="lead">A browser integrated website collection for historians.</p>
           <div class="btn-group mb-3">
                 <a href="https://extension-historia.github.io/online-version/index.html" target="_blank" class="btn btn-outline-secondary rounded m-2" role="button">Online Version</a>
@@ -104,35 +105,80 @@
         <br><br>
         It has the following features and advantages:
       </p>
-      <ul>
-        <li>For Firefox, Opera, Microsoft Edge and Chrome based browsers + online version for all users.</li>
-        <li>Currently around 610 links with descriptions integrated.</li>
-        <li>The collected websites are in the following languages: English, German, French, Italian, Spanish, Catalan, Portuguese, Hungarian, Dutch, Finnish, Japanese, simplified Chinese and traditional Chinese, Korean, Russian, Hebrew. </li>
-        <li>Time span: Antiquity - (mainly Early) Modern Period</li>
-        <li>The links are tested from time to time to avoid dead links. </li>
-        <li>For students, lecturers and amateurs to find already known or new websites.</li>
-        <li>The extension is written in / with: HTML, Javascript, jQuery 3.6.2, jQuery dataTables 1.13.1, CSS, JSON, manifest 2V for Firefox, manifest 3V for Microsoft Edge, Opera and Chrome.</li>
-      </ul>
-
-      <br><br>
-
+      <div class="card about-card">
+        <p class="about-p"><i class="bi bi-bookmark-fill"> For many browsers: </i> For Firefox, Opera, Microsoft Edge and Chrome based browsers + online version for all users.<br>
+          <i class="bi bi-bookmark-fill"> Many entries:</i> Currently around 610 links with descriptions integrated.<br>
+          <i class="bi bi-bookmark-fill"> Many languages:</i> The collected websites are in the following languages: English, German, French, Italian, Spanish, Catalan, Portuguese, Hungarian, Dutch, Finnish, Japanese, simplified Chinese and traditional Chinese, Korean, Russian, Hebrew.<br>
+          <i class="bi bi-bookmark-fill"> Time span:</i> Antiquity (and before) - (mainly Early) Modern Period<br>
+          <i class="bi bi-bookmark-fill"> Always up to date: </i> The links are tested from time to time to avoid dead links.<br>
+          <i class="bi bi-bookmark-fill"> Multi-purpose: </i> For students, lecturers and amateurs to find already known or new websites.<br>
+          <i class="bi bi-bookmark-fill"> Sustainable: </i> Entirely open-source and for everyone to participate, without deadlines.<br>
+          <i class="bi bi-bookmark-fill"> Easy to manipulate: </i> The extension is written in / with: HTML, Javascript, jQuery 3.6.2, jQuery dataTables 1.13.1, CSS, JSON, manifest 2V for Firefox, manifest 3V for Microsoft Edge, Opera and Chrome.
+        </p>
+      </div>
       <p>
-        DISCLAIMER: Please note that the extension, developer and contributors are not responsible for the content of the links. The extension "Historia" is a voluntarily work to help researchers all around the world.
+        DISCLAIMER: Please note that the extension, developer and contributors are not responsible for the content of the links. The extension "Historia" is a voluntarily work to help researchers all around the world. The descirption texts are written based on the "About" page of every website.
       </p>
       <br>
+
+      <div class="card about-card">
+        <p class="subtitle"> Philosophy </p>
+        <p>The world of researchers is expanding from the printed world into the digital world with vast possibilities to represent and manipulate text and data in general. However, keeping track of all those digital resources we have on hand is becoming a task in itself. During study and research, everyone starts to list them up at some point and we all are ending up with similar lists on our own that we must import and export in case of major technical changes (changing browsers, changing the distro, changing the computer etc.). Some new students are still receiving lists of important links printed on paper. Researchers who are willing to expand their research fields still need to ask others for digital resources that are not neccesarily included in printed books. </p>
+        <p class="important-text">What if we could just make one single list for everyone around the world?</p>
+        <p>Indeed, there are some similar predecessors of this project such as <a href="http://mdr-maa.org/" target="_blank">"Medieval Digital Resources (MDR)"</a>, <a href="http://www.menestrel.fr/-Sources-et-ressources-" target="_blank">"Ménestrel"</a> and <a href="https://www.saveancientstudies.org/ancient-studies-resources" target="_blank">"Save Ancient Studies Alliance (SASA)"</a> as well as many websites and blogs with endless lists of useful websites. As it is always the case when building up a project, it is thanks to those already existing works that other projects can be build upon. However, from the point of view of the developer of Historia, it must be said that they all have problems that need to be faced:</p>
+
+        <p class="about-p">
+          <i class="bi bi-1-square-fill"> Problem: </i> The websites require the user to go to their websites to search for what they need. This is sufficient in order to find new resources, but as we all want to save time by human nature, many of us end up preferring using bookmarks that are directly accessible from the browser instead. <br>
+          <i class="bi bi-check-square-fill"> Historia's solution: </i> By making it directly accessible on browsers by creating an browser extension, it is possible to eliminate the extra step of going to a website. Behind one single icon, one can find hundreds of searchable bookmarks saved. <br> <br>
+          <i class="bi bi-2-square-fill"> Problem: </i> Depending on the project, as long as a project has a funding time span, there will always be an end to the project. After the project's end, in many cases nobody is responsible for keeping the list up to date. Thus, after a certain time, the list will have a certain amount of dead links and is lacking of recent projects. <br>
+          <i class="bi bi-check-square-fill"> Historia's solution: </i> By making it open source, even if the developer is not able to continue updating the project due to life circumstances, basically everyone with a bit of programming knowledge can continue keeping the list alive. <br> <br>
+          <i class="bi bi-3-square-fill"> Problem: </i> A project that is tied to specific people, institutions or fundings can be tied to a specific server as well. A server however requires maintanance, the domain name must be paid annually - thus there are costs, which leads to the need of fundings. <br>
+          <i class="bi bi-check-square-fill"> Historia's solution: </i> By making Historia an extension based on JavaScript queries (and not based on a SQL/noSQL database) and hosting the online version as well as the project page on GitHub, costs can be saved. This is the reason why Historia's core will never be a WebApp (a searchable server-based database), but a simple HTML table animated with JavaScript. The future task on the developer's side will be efficient coding in order to reduce loading time.</p>
+      </div>
     </div>
 
     <div class="section-white p-5">
-      <h3 id="guide">Guide</h3>
+      <h3 id="versions">Versions</h3>
 
-        <p>
-          Coming soon!
-        </p>
+      <p>Historia comes in three different types, the online version, the browser extension version from the browser stores and the browser extension version for the manual installation.</p>
+       <div class="card about-card">
+
+         <p class="about-p">
+           <i class="bi bi-globe"> Online version (1.1.0): </i><br>Originally made for demo purposes. The online version is the most actual version and can include Beta-releases. From 2.0.0 onwards, the online version will have an extended filter and will differ from the plugin version. <br>
+           <a href="https://extension-historia.github.io/online-version/index.html" target="_blank" class="btn btn-outline-secondary rounded float-end m-2" role="button">Go to the online version</a></p>
+         <br>
+
+         <p class="important-text"> Extensions from the browser store </p>
+         <p class="about-p">
+           <i class="bi bi-browser-firefox"> Firefox (1.1.0): </i><br>Can be downloaded from "Firefox Add-Ons" with 1 click. Flagship version of all the extensions, thus it is always the most actual version of the extensions. <br>
+           <a href="https://addons.mozilla.org/en-US/firefox/addon/historia-quick-launcher/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search" target="_blank" class="btn btn-outline-secondary rounded float-end m-2" role="button">Go to the store</a>
+           <br><br>
+
+
+           <i class="bi bi-circle"> Opera BETA / DEVELOPER (1.1.0): </i><br> Can be downloaded from "Opera AddOns" with 1 click. Attention: The Download link only works when accessed from Opera Beta or Developer! From normal Opera or any other browsers, the link leads to an error.<br><a href="https://addons.opera.com/en/extensions/details/historia-quick-launcher/" target="_blank" class="btn btn-outline-secondary rounded float-end m-2" role="button">Go to the store</a>
+           <br><br>
+         </p>
+         <p class="important-text"> Extensions from source for manual installation </p>
+         <p class="about-p">
+           <i class="bi bi-browser-firefox"> Firefox (1.1.0): </i><br> A zip-file with codes for Firefox that can be downloaded from GitHub and installed manually. Attention: Manual installation must also be updated manually!<br>
+           <a href="https://github.com/Extension-Historia/source-code-firefox" target="_blank" class="btn btn-outline-secondary rounded float-end m-2" role="button">Go to GitHub</a>
+           <br><br>
+           <i class="bi bi-circle"> Opera (1.1.0): </i><br> A zip-file with codes for Opera (any version) that can be downloaded from GitHub and installed manually. Attention: Manual installation must also be updated manually!<br>
+           <a href="https://github.com/Extension-Historia/source-code-opera" target="_blank" class="btn btn-outline-secondary rounded float-end m-2" role="button">Go to GitHub</a>
+           <br><br>
+           <i class="bi bi-browser-chrome"> Chrome (1.1.0): </i><br> A zip-file with codes for Chrome that can be downloaded from GitHub and installed manually. Attention: Manual installation must also be updated manually!<br>
+           <a href="https://github.com/Extension-Historia/source-code-chrome" target="_blank" class="btn btn-outline-secondary rounded float-end m-2" role="button">Go to GitHub</a>
+           <br><br>
+           <i class="bi bi-browser-edge"> Microsoft Edge (1.1.0): </i><br> A zip-file with codes for Microsoft Edge that can be downloaded from GitHub and installed manually. Attention: Manual installation must also be updated manually!<br>
+           <a href="https://github.com/Extension-Historia/source-code-microsoft-edge" target="_blank" class="btn btn-outline-secondary rounded float-end m-2" role="button">Go to GitHub</a>
+           <br><br>
+         </p>
+       </div>
 
     </div>
 
     <div class="section-orange p-5">
-      <h3 id="versions">Versions</h3>
+      <h3 id="guide">Guide</h3>
 
         <p>
           Coming soon!
@@ -143,23 +189,22 @@
 
     <div class="section-white p-5">
       <h3 id="news">News & Logs</h3>
-
       <p>
-        <br> <br>
         Next version is planned for Spring / Summer 2023 with an additional checkbox filter for the online version
         <br> <br>
-        22. December 2022: 1.1.0 released on Firefox & online version
+        <i class="bi bi-bookmark-fill"> December 2022 / January 2023: </i> New project page design
         <br> <br>
-        August / September: Version 1.0.1 was released on Firefox Add-Ons and Opera Beta / Developer with minor bug fixes. Manual install versions for Microsoft Edge and Chrome-based browsers were uploaded on Github. Online version was created. All versions are 1.0.1.
+        <i class="bi bi-bookmark-fill"> 22. December 2022: </i> 1.1.0 released on Firefox & online version
         <br> <br>
-        9. August 2022: Version 1.0.0 was launched on Firefox Add-Ons.
+        <i class="bi bi-bookmark-fill"> August / September: </i> Version 1.0.1 was released on Firefox Add-Ons and Opera Beta / Developer with minor bug fixes. Manual install versions for Microsoft Edge and Chrome-based browsers were uploaded on Github. Online version was created. All versions are 1.0.1.
         <br> <br>
-        August 2022: Beta version completed with around 370 links.
+        <i class="bi bi-bookmark-fill"> 9. August 2022: </i> Version 1.0.0 was launched on Firefox Add-Ons.
+        <br> <br>
+        <i class="bi bi-bookmark-fill"> August 2022: </i> Beta version completed with around 370 links.
         <br><br>
-        July/August 2022: The formerly used javascript code from javascript search function based off this <a href="https://stackoverflow.com/questions/30580844/filtering-a-list-with-jquery-when-multiple-words-are-entered-as-input-using-an" target="_blank">code</a> was replaced by the jQuery DataTables plugin for jQuery to ensure the search functionality for Japanese, Korean, Chinese and Russian.
+        <i class="bi bi-bookmark-fill"> July / August 2022: </i> The formerly used javascript code from javascript search function based off this <a href="https://stackoverflow.com/questions/30580844/filtering-a-list-with-jquery-when-multiple-words-are-entered-as-input-using-an" target="_blank">code</a> was replaced by the jQuery DataTables plugin for jQuery to ensure the search functionality for Japanese, Korean, Chinese and Russian.
         <br><br>
-        Spring 2022: Project launch</p>
-
+        <i class="bi bi-bookmark-fill"> Spring 2022: </i> Project launch</p>
       <br>
     </div>
 
@@ -167,9 +212,9 @@
       <h3 id="suggestions">How to send in suggestions</h3>
 
       <p>If you have any suggestions, want a website to be added or want to report a problem, you have the following options:<br><br>
-        #option1: Program it yourself and make a pull-request on Github.
+        <i class="bi bi-bookmark-fill"> Option 1: </i> Program it yourself and make a pull-request on Github.
         <br><br>
-        #option2: Please write an eMail to the <a href="mailto: lina.lerch.edu@tutanota.com">main developer</a> of the extension. For suggestions, please provide the link of the website, its official name and a short description of the website in English.
+        <i class="bi bi-bookmark-fill"> Option 2: </i> Please write an eMail to the <a href="mailto: lina.lerch.edu@tutanota.com">main developer</a> of the extension. For suggestions, please provide the link of the website, its official name and a short description of the website in English.
       </p>
 
     </div>
@@ -188,22 +233,22 @@
     <div class="section-orange p-5">
       <h3 id="contributors">Further contributors & credits</h3>
 
-      <p> Franziska Naether</p>
+      <p>Franziska Naether</p>
       <p style="font-size: small">Contributed 98 links</p>
 
       <br>
 
-      <p> John Hinderer</p>
+      <p>John Hinderer</p>
       <p style="font-size: small">Contributed 39 links and 3 descriptions</p>
 
       <br>
 
-      <p> Eric Böhme</p>
+      <p>Eric Böhme</p>
       <p style="font-size: small">Contributed 5 links</p>
 
       <br>
 
-      <p> Sven Jaros</p>
+      <p>Sven Jaros</p>
       <p style="font-size: small">Contributed 4 links</p>
 
       <br>
