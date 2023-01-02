@@ -28,7 +28,7 @@ $(document).ready( function () {
    //build a filter string with an or(|) condition
    var keywords = $('input:checkbox[name="key"]:checked').map(function() {
      return this.value;
-   }).get().join('|');
+   }).get().join('&&');
 
 
    //now filter in column 2, with no regex, no smart filtering, not case sensitive
