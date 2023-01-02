@@ -10,35 +10,9 @@
             overflow-y: scroll;
           }
 
-          #example_filter input {
-            border: 0;
-            outline: 0;
-            background: transparent;
-            border-radius: 0;
-            border-bottom: 1px solid black;
-            margin: 5px;
-            padding: 5px;
-            width: 340px;
-            font-size: large;
-          }
-
-
-
-
           table.dataTable tfoot th {
             border-top: 0;
           }
-
-
-          td {
-            background: transparent;
-            border: 0.5px solid grey;
-            padding: 10px;
-            margin: 10px;
-            width: 300px;
-            font-size: large;
-          }
-
 
 
           a:link {
@@ -69,6 +43,7 @@
             font-size: medium;
           }
 
+          /* language-tag */
           tag-grey {
             background: grey;
             border-style: 2px solid grey;
@@ -78,11 +53,13 @@
             color: white;
           }
 
+          /* info box with dev name and version */
           info {
             font-size: x-small;
             margin-top: 10px;
           }
 
+          /* info box question mark - remove in 2.0.0 */
           tag-grey-question {
             background: grey;
             border-style: 2px solid grey;
@@ -92,12 +69,29 @@
             font-size: 9px;
           }
 
-          /* datatables info color */
-          div.dataTables_info {
+          /* datatables info color, font and centering */
+          .dataTables_wrapper .dataTables_info {
+            float: none !important;
+            text-align: center !important;
             color: #FE6700 !important;
             font-size: medium !important;
             font-family: arial !important;
           }
+
+          /* custom search box */
+          .custom_searchbox {
+             border: 0;
+             outline: 0;
+             background: transparent;
+             border-radius: 0;
+             border-bottom: solid #FE6700;
+             line-height: 1.5;
+             width: 98%;
+             font-size: large;
+             position:absolute;
+             left:1%
+           }
+
 
           /* search box to the left */
           .dataTables_filter {
@@ -114,4 +108,43 @@
           background: url(cancel-button.svg) no-repeat 50% 50%;
           background-size: contain;
 
-}
+        }
+
+        /* export button centering */
+        .dataTables_wrapper .dt-buttons {
+          float: none;
+          text-align: center;
+        }
+
+        /* header info box*/
+        #header {
+          background-color: #FE5F00;
+          color: white;
+          padding: 2px;
+          text-align: center;
+        }
+
+
+        /* card for checkboxes*/
+        .card-body {
+          overflow: auto;
+          height: 9em;
+          text-align: left;
+        }
+
+        .infobox {
+          border: 2px solid #FE5F00 !important;
+        }
+
+
+
+        /* advanced search checkbox color */
+        input[name="key"] {
+          accent-color: #FE5F00;
+          margin-right: 2px;
+        }
+
+
+        .hidden-tags {
+          display: none;
+        }
