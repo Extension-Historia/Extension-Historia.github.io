@@ -620,7 +620,7 @@
     {
       "title": "Bibliotheca Augustana Latin",
       "description": "CIT1",
-      "language": "Latin",
+      "language": "<tg>Latin</tg>",
       "link": "http://www.hs-augsburg.de/~harsch/augustana.html",
       "tags": ""
     },
@@ -655,7 +655,7 @@
     {
       "title": "Bibliothek der Kirchenväter (BKV)",
       "description": "A website providing the digitized volumes of Bibliothek der Kirchenväter (Library of the Church Fathers) with German, English and French translations.",
-      "language": "English German",
+      "language": "<tg>English</tg> <tg>German</tg>",
       "link": "https://bkv.unifr.ch/de",
       "tags": ""
     },
@@ -1038,9 +1038,9 @@
       "tags": ""
     },
     {
-      "title": "Chinese Text ProjectEnglish",
+      "title": "Chinese Text Project",
       "description": "A collection of Chinese historical sources which covers different eras as well as topics.",
-      "language": "English Traditional Chinese Simplified Chinese",
+      "language": "<tg>English</tg> <tg>Traditional Chinese</tg> <tg>Simplified Chinese</tg>",
       "link": "https://ctext.org/",
       "tags": ""
     },
@@ -1292,7 +1292,7 @@
     {
       "title": "Corpus Medicorum Graecorum / Latinorum Latin",
       "description": "CIT1",
-      "language": "Latin",
+      "language": "<tg>Latin</tg>",
       "link": "https://cmg.bbaw.de/epubl/online/editionen.html",
       "tags": ""
     },
@@ -1320,7 +1320,7 @@
     {
       "title": "Corpus Thomisticum Latin",
       "description": "The website is dedicated to Thomas Aquinas and his works. It provides digital versions of his works as well as the Thomas-Lexikon by Ludwig Schütz among other research instruments and functionalities.",
-      "language": "Latin",
+      "language": "<tg>Latin</tg>",
       "link": "http://www.corpusthomisticum.org/",
       "tags": ""
     },
@@ -1915,7 +1915,7 @@
     {
       "title": "Documenta Catholica Omnia Latin",
       "description": "A compendium of historical sources of papal history with PDFs and meta data.",
-      "language": "Latin",
+      "language": "<tg>Latin</tg>",
       "link": "http://www.documentacatholicaomnia.eu/",
       "tags": ""
     },
@@ -4848,7 +4848,7 @@
     {
       "title": "patristica.net Latin",
       "description": "CIT1",
-      "language": "Latin",
+      "language": "<tg>Latin</tg>",
       "link": "http://patristica.net/",
       "tags": ""
     },
@@ -4862,14 +4862,14 @@
     {
       "title": "Patrologia Graeca et Cetera Graeca Scripta (Documenta Catholica Omnia) Latin",
       "description": "A digital version of Patrologia Graeca et Cetera Graeca Scripta, used for the research of the Church Fathers.",
-      "language": "Latin",
+      "language": "<tg>Latin</tg>",
       "link": "http://www.documentacatholicaomnia.eu/25_20_25-_Rerum_Conspectus_Pro_Auctoribus_Ordinatus.html",
       "tags": ""
     },
     {
       "title": "Patrologia Latina (Documenta Catholica Omnia) Latin",
       "description": "A digital version of Patrologia Latina, used for the research of the Church Fathers. This is the Documenta Catholica Omnia version.",
-      "language": "Latin",
+      "language": "<tg>Latin</tg>",
       "link": "http://www.documentacatholicaomnia.eu/1815-1875,_Migne,_Patrologia_Latina_01._Rerum_Conspectus_Pro_Tomis_Ordinatus,_MLT.html",
       "tags": ""
     },
@@ -5338,7 +5338,7 @@
     {
       "title": "The Roman Law Library (A. Koptev) Latin",
       "description": "CIT1",
-      "language": "Latin",
+      "language": "<tg>Latin</tg>",
       "link": "http://ancientrome.ru/ius/library/",
       "tags": ""
     },
@@ -5429,7 +5429,7 @@
     {
       "title": "Sant'Agostino - opera omnia - editio latina Latin",
       "description": "CIT1",
-      "language": "Latin",
+      "language": "<tg>Latin</tg>",
       "link": "http://www.augustinus.it/latino/index.htm",
       "tags": ""
     },
