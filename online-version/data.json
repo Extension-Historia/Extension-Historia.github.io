@@ -485,7 +485,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Base de dades Manuscrits Catalans de l'Edat Moderna",
       "description": "DES",
       "language": "<tg>Catalan</tg>",
       "link": "https://mcem.iec.cat/?epigraf_m=1",
@@ -1024,7 +1024,7 @@
       "tags": ""
     },
     {
-      "title": "China Historical GIS (CHGIS)English",
+      "title": "China Historical GIS (CHGIS)",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://chgis.fairbank.fas.harvard.edu/",
@@ -1852,7 +1852,7 @@
     {
       "title": "Digitális Magyar Vízjel Adatbank (DMVA)",
       "description": "A database of watermarks for codicological or paleographical research.",
-      "language": "Hungarian",
+      "language": "<tg>Hungarian</tg>",
       "link": "https://memoryofpaper.eu/dmva/dmva_searchHU.php",
       "tags": ""
     },
@@ -2375,7 +2375,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "French Renaissance Paleography",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://paleography.library.utoronto.ca/",
@@ -2452,7 +2452,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Gateway to Early Modern Manuscript Sermons (GEMMS)",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://gemmsorig.usask.ca/",
@@ -2676,7 +2676,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Greater Cahokia Archaeology - 21st Century Inquiries into Ancient America",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "http://www.cahokia.illinois.edu/index.html",
@@ -2797,14 +2797,14 @@
     {
       "title": "Haijiaoshi 海交史 [History of maritime interactions]",
       "description": "A blog mainly dedicated to the research of Chinese / Korean / Japanese history and the interaction between those regions.",
-      "language": "Simplified Chinese Japanese",
+      "language": "<tg>Simplified Chinese</tg> <tg>Japanese</tg>",
       "link": "https://www.haijiaoshi.com/",
       "tags": ""
     },
     {
       "title": "Haijiaoshi 海交史 [History of maritime interactions] - Riben ge daxue tushuguan guji dianzi ziliaoku daohang 日本各大学图书馆古籍电子资料库导航",
       "description": "An overview of historical source databases powered by Japanese university libraries, posted on the Haijiaoshi blog.",
-      "language": "Simplified Chinese Japanese",
+      "language": "<tg>Simplified Chinese</tg> <tg>Japanese</tg>",
       "link": "https://www.haijiaoshi.com/archives/1306",
       "tags": ""
     },
@@ -3033,7 +3033,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Horae Hours",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://www.horae-hours.com/projects",
@@ -3082,7 +3082,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "hypotheses.org",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://hypotheses.org/",
@@ -3285,7 +3285,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Imagining Medieval Narrative: The Travels of Marco Polo",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://scalar.usc.edu/works/the-travels-of-marco-polo/index",
@@ -3446,7 +3446,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Journeys to the West: Kitan and Jurchen Travelers in Thirteenth-Century Central Asia",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://denisongis.maps.arcgis.com/apps/MapJournal/index.html?appid=e0fe47ae592c4cab8930bbb37ce41269",
@@ -3733,21 +3733,21 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "europeana regia",
       "description": "DES             ",
       "language": "<tg>English</tg>",
       "link": "http://www.europeanaregia.eu/en/historical-collections/library-charles-v-family",
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Library of Congress - Bibliographies, Research Guides, and Finding Aids",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://www.loc.gov/rr/program/bib/index.html",
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Library of Congress - Digital Collections",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://www.loc.gov/collections/",
@@ -3929,21 +3929,21 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Manuscripts of Lichfield Cathedral",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://lichfield.ou.edu/",
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Manuscripts of the West Midlands (MWM)",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://www.dhi.ac.uk/mwm/",
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Manuscripts on Microfilm",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://manuscriptsonmicrofilm.wordpress.com/",
@@ -4363,7 +4363,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Modern Language Translations of Byzantine Sources - Digitized Greek Manuscripts",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://library.princeton.edu/byzantine/manuscript-title-list",
@@ -4923,7 +4923,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "The Peripheral Manuscripts Project - Digitizing Medieval Manuscript Collections in the Midwest",
       "description": "DES ",
       "language": "<tg>English</tg>",
       "link": "https://peripheralmss.org/",
@@ -5105,14 +5105,14 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Pyle - A Gateway to Greek Manuscripts",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "http://pyle.it/",
       "tags": ""
     },
     {
-      "title": " Pythonmaps",
+      "title": "Pythonmaps",
       "description": "DES ",
       "language": "<tg>English</tg>",
       "link": "https://www.pythonmaps.com/",
@@ -5266,7 +5266,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Réseau des médiévistes belges de langue française (RMBLF.be)",
       "description": "DES",
       "language": "<tg>French</tg>",
       "link": "https://rmblf.be/",
@@ -5277,13 +5277,6 @@
       "description": "The homepage of the Rerum Italicarum Scriptores edition series for Italian historical sources. This link leads directly to a table where a specific volume can be opened digitally.",
       "language": "<tg>Italian</tg>",
       "link": "https://www.centrostudimuratoriani.it/strumenti/ris/",
-      "tags": ""
-    },
-    {
-      "title": "",
-      "description": "DES",
-      "language": "<tg>English</tg>",
-      "link": "http://revealingcooperationandconflict.com/",
       "tags": ""
     },
     {
@@ -5595,28 +5588,28 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Spicilegium",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "http://spicilegium.net/",
       "tags": ""
     },
     {
-      "title": "",
+      "title": "The Squeeze Collection - Center for the Study of Ancient Documents (CSAD)",
       "description": "DES             ",
       "language": "<tg>English</tg>",
       "link": "https://www.csad.ox.ac.uk/squeeze-collection-0",
       "tags": ""
     },
     {
-      "title": "",
+      "title": "St. Stephen's Chapel, Westminster: Visual & Political Culture, 1292-1941",
       "description": "DES             ",
       "language": "<tg>English</tg>",
       "link": "https://www.virtualststephens.org.uk/",
       "tags": ""
     },
     {
-      "title": "",
+      "title": "St. Paul's Outside the Walls - A Virtual Basilica",
       "description": "DES             ",
       "language": "<tg>English</tg>",
       "link": "https://n2t.net/ark:/81428/v81593",
@@ -5721,7 +5714,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Syriaca",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://syriaca.org/index.html",
@@ -5742,7 +5735,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "taga-artchive 台灣畫廊產業史料庫",
       "description": "DES",
       "language": "<tg>Traditional Chinese</tg>",
       "link": "http://taga-artchive.org/",
@@ -6302,7 +6295,7 @@
       "tags": ""
     },
     {
-      "title": "",
+      "title": "Wheater Rescue at Sea",
       "description": "DES",
       "language": "<tg>English</tg>",
       "link": "https://www.zooniverse.org/projects/p-teleti/weather-rescue-at-sea",
