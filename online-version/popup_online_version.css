@@ -44,7 +44,7 @@
           }
 
           /* language-tag */
-          tag-grey {
+          tg {
             background: grey;
             border-style: 2px solid grey;
             border-radius: 5px;
@@ -80,17 +80,17 @@
 
           /* custom search box */
           .custom_searchbox {
-             border: 0;
-             outline: 0;
-             background: transparent;
-             border-radius: 0;
-             border-bottom: solid #FE6700;
-             line-height: 1.5;
-             width: 98%;
-             font-size: large;
-             position:absolute;
-             left:1%
-           }
+            border: 0;
+            outline: 0;
+            background: transparent;
+            border-radius: 0;
+            border-bottom: solid #FE6700;
+            line-height: 1.5;
+            width: 98%;
+            font-size: large;
+            position: absolute;
+            left: 1%
+          }
 
 
           /* search box to the left */
@@ -101,50 +101,57 @@
 
           /* search cancel button */
           input[type="search"]::-webkit-search-cancel-button {
-          -webkit-appearance: none;
-          height: 1em;
-          width: 1em;
-          border-radius: 50em;
-          background: url(cancel-button.svg) no-repeat 50% 50%;
-          background-size: contain;
+            -webkit-appearance: none;
+            height: 1em;
+            width: 1em;
+            border-radius: 50em;
+            background: url(cancel-button.svg) no-repeat 50% 50%;
+            background-size: contain;
 
-        }
+          }
 
-        /* export button centering */
-        .dataTables_wrapper .dt-buttons {
-          float: none;
-          text-align: center;
-        }
+          /* export button centering */
+          .dataTables_wrapper .dt-buttons {
+            float: none;
+            text-align: center;
+          }
 
-        /* header info box*/
-        #header {
-          background-color: #FE5F00;
-          color: white;
-          padding: 2px;
-          text-align: center;
-        }
-
-
-        /* card for checkboxes*/
-        .card-body {
-          overflow: auto;
-          height: 9em;
-          text-align: left;
-        }
-
-        .infobox {
-          border: 2px solid #FE5F00 !important;
-        }
+          /* header info box*/
+          #header {
+            background-color: #FE5F00;
+            color: white;
+            padding: 2px;
+            text-align: center;
+          }
 
 
+          /* card for checkboxes*/
+          .card-body {
+            overflow: auto;
+            height: 9em;
+            text-align: left;
+          }
 
-        /* advanced search checkbox color */
-        input[name="key"] {
-          accent-color: #FE5F00;
-          margin-right: 2px;
-        }
+          .infobox {
+            border: 2px solid #FE5F00 !important;
+          }
+
+          /* Selected row color */
+table.display.dataTable > tbody > tr.selected > *,
+table.display.dataTable > tbody > tr.odd.selected > *,
+table.display.dataTable > tbody > tr.selected:hover > *  {
+    box-shadow: inset 0 0 0 9999px #fff2e6 !important;
+}
 
 
-        .hidden-tags {
-          display: none;
-        }
+
+          /* advanced search checkbox color */
+          input[name="key"] {
+            accent-color: #FE5F00;
+            margin-right: 2px;
+          }
+
+
+          .invisible {
+            display: none;
+          }
