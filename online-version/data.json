@@ -5,17 +5,17 @@
       "description": "A database where sources regarding the rebellion of 1641 in Ireland can be found. The database consists of sources provided by the Trinity College Dublin and may interest researchers of religions, Catholicism and Protestantism, as well as Irish, Scottish and English early modern history.",
       "language": "<tg>English</tg>",
       "link": "https://1641.tcd.ie/",
-      "tag_auxiliary": "",
-      "tag_genre": "",
-      "tag_wtype": ""
+      "tag_auxiliary": "paleography",
+      "tag_genre": "law",
+      "tag_wtype": "meta"
     },
     {
       "title": "Abbildungsverzeichnis der europäischen Kaiser- und Königsurkunden",
       "description": "A project by LMU (Munich, Germany) for indexing documents of the Early and High Middle Ages of emperors and kings.",
       "language": "<tg>German</tg>",
       "link": "http://www.hgw-online.net/abbildungsverzeichnis/",
-      "tag_auxiliary": "",
-      "tag_genre": "",
+      "tag_auxiliary": "paleography, codicology",
+      "tag_genre": "law",
       "tag_wtype": ""
     },
     {
@@ -23,9 +23,9 @@
       "description": "A website for learning, teaching and researching medieval Latin texts and decrypting abbreviations.",
       "language": "<tg>English</tg>",
       "link": "https://www.abbreviationes.net/",
-      "tag_auxiliary": "",
+      "tag_auxiliary": "codicology",
       "tag_genre": "",
-      "tag_wtype": ""
+      "tag_wtype": "meta"
     },
     {
       "title": "academia.edu",
