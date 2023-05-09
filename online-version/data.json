@@ -4278,7 +4278,7 @@
     {
       "title": "The International Collection of Digitized Hebrew Manuscripts",
       "description": "A database of digitized Hebrew manuscripts.",
-      "language": "English Hebrew",
+      "language": "<tg>English</tg> <tg>Hebrew</tg>",
       "link": "https://www.nli.org.il/en/discover/manuscripts/hebrew-manuscripts",
       "tag_auxiliary": "",
       "tag_genre": "",
