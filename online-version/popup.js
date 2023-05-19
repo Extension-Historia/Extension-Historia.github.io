@@ -93,6 +93,7 @@ $(document).ready(function() {
     buttons: [
     {
                 extend: 'pdfHtml5',
+                title: 'Historia Quick Launcher Data Export',
                 text: 'Export all to PDF',
                 messageTop: 'This list was produced using the project "Historia Quick Launcher", developed by Lina Lerch. For more information, please vist the project page under https://extension-historia.github.io/',
                 orientation: 'landscape',
@@ -105,6 +106,7 @@ $(document).ready(function() {
             },
             {
                 extend: 'pdfHtml5',
+                title: 'Historia Quick Launcher Data Export',
                 text: 'Export selected to PDF',
                 messageTop: 'This list was produced using the project "Historia Quick Launcher", developed by Lina Lerch. For more information, please vist the project page under https://extension-historia.github.io/',
                 orientation: 'landscape',
