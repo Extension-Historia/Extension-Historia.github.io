@@ -1729,7 +1729,7 @@
     },
     {
       "title": "Corpus Iuris Civilis (Ames Foundation)",
-      "description": "Digital version of the Latin source <tg>Corpus Iuris Civilis</tg>.",
+      "description": "Digital version of the Latin source <i>Corpus Iuris Civilis</i>.",
       "language": "<tg>English</tg>",
       "link": "https://amesfoundation.law.harvard.edu/digital/CJCiv/CJCivMetadata.html",
       "tag_auxiliary": "",
@@ -1869,7 +1869,7 @@
     },
     {
       "title": "Cyfraith Hywel - The Law of Hywel",
-      "description": "A website dedicated to the manuscripts of the <tg>Law of Hywel</tg>, especially concerning its contents and publications regarding the topic.",
+      "description": "A website dedicated to the manuscripts of the <i>Law of Hywel</i>, especially concerning its contents and publications regarding the topic.",
       "language": "<tg>English</tg> <tg>Welsh</tg>",
       "link": "https://www.cyfraith-hywel.org.uk/",
       "tag_auxiliary": "",
