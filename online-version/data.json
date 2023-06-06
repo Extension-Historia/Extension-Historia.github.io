@@ -177,7 +177,8 @@
       "link": "http://www.papyrology.org/",
       "tag_auxiliary": "paleography",
       "tag_genre": "",
-      "tag_wtype": "news"
+      "tag_wtype": "news",
+      "tag_time": ""
     },
     {
       "title": "American Journal of Archaeology (AJA)",
@@ -746,7 +747,8 @@
       "link": "http://www.aere-egke.be/BP/",
       "tag_auxiliary": "papyrology",
       "tag_genre": "",
-      "tag_wtype": "bibliography"
+      "tag_wtype": "bibliography",
+      "tag_time": ""
     },
     {
       "title": "Bibliographische Datenbank Historische Grundwissenschaften LMU",
@@ -1455,7 +1457,8 @@
       "link": "http://classicsresources.info/",
       "tag_auxiliary": "paleography, numismatics, cartography, ",
       "tag_genre": "law, architeture, archaeology",
-      "tag_wtype": "bibliography"
+      "tag_wtype": "bibliography",
+      "tag_time": ""
     },
     {
       "title": "Claustro Spanish",
@@ -2794,7 +2797,8 @@
       "link": "https://afz.lvr.de/media/archive_im_rheinland/publikationen/archivhefte/LVR_Archivheft32.pdf",
       "tag_auxiliary": "paleography, archival",
       "tag_genre": "",
-      "tag_wtype": "information, decryption"
+      "tag_wtype": "information, decryption",
+      "tag_time": ""
     },
     {
       "title": "eDiAna",
@@ -3603,7 +3607,8 @@
       "link": "http://gloss-e.irht.cnrs.fr/",
       "tag_auxiliary": "archival",
       "tag_genre": "",
-      "tag_wtype": "dictionary"
+      "tag_wtype": "dictionary",
+      "tag_time": ""
     },
     {
       "title": "Glossarial Concordance to Middle English",
@@ -5022,7 +5027,8 @@
       "link": "https://www.uni-frankfurt.de/117754290/Generic_117754290.pdf",
       "tag_auxiliary": "paleography",
       "tag_genre": "",
-      "tag_wtype": "information, decryption"
+      "tag_wtype": "information, decryption",
+      "tag_time": ""
     },
     {
       "title": "Kodai / chūsei jishin / funka shiryō database 古代・中世 地震・噴火史料データーベース [Database of historical earthquake and volcanic eruption documents in the Japanese Antiquity and Middle Ages]",
@@ -5231,7 +5237,8 @@
       "link": "https://landesarchiv.hessen.de/lesehilfen",
       "tag_auxiliary": "paleography",
       "tag_genre": "",
-      "tag_wtype": "information, decryption"
+      "tag_wtype": "information, decryption",
+      "tag_time": ""
     },
     {
       "title": "Lexicon Bohemorum",
@@ -7529,7 +7536,8 @@
       "link": "https://www.e-hist.ch/fileadmin/downloads/Lizentiatsarbeit.pdf",
       "tag_auxiliary": "paleography",
       "tag_genre": "",
-      "tag_wtype": "information, decryption"
+      "tag_wtype": "information, decryption",
+      "tag_time": ""
     },
     {
       "title": "Roman Inscriptions of Britain (RIB)",
@@ -8547,7 +8555,8 @@
       "link": "https://www.mainz.de/kultur-und-wissenschaft/bibliotheken-und-archive/stadtarchiv/tutorial-schrift.php",
       "tag_auxiliary": "paleography",
       "tag_genre": "",
-      "tag_wtype": "information, decryption"
+      "tag_wtype": "information, decryption",
+      "tag_time": ""
     },
     {
       "title": "Tyndale Tech - Electronic Resources for Biblical Studies",
