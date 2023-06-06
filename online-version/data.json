@@ -5457,7 +5457,8 @@
       "link": "https://www.uni-muenster.de/imperia/md/content/fb2/d-praktischetheologie/kanonischesrecht/service/lexikon.pdf",
       "tag_auxiliary": "",
       "tag_genre": "religion",
-      "tag_wtype": "dictionary"
+      "tag_wtype": "dictionary",
+      "tag_time": ""
     },
     {
       "title": "Magdeburger Spuren",
@@ -7686,7 +7687,8 @@
       "link": "https://www.uni-trier.de/fileadmin/fb3/prof/GES/MG1/Tutorium_Mittelalterliche_Geschichte_Stand_23.11._2015.pdf",
       "tag_auxiliary": "",
       "tag_genre": "",
-      "tag_wtype": "information"
+      "tag_wtype": "information",
+      "tag_time": ""
     },
     {
       "title": "Schmid, B. et al.: Source code and datasets used to link new waves of plague outbreaks in medieval Europe to climate fluctuations affecting the reservoirs of the disease in Asia",
