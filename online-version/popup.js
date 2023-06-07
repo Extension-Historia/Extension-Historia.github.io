@@ -11,7 +11,7 @@ $(document).ready(function() {
         orderable: false,
         data: null,
         "render": function(data, type, full, meta) {
-          return "<a href=\"" + full.link + "\">" + full.title + " " + full.language + "<br>" + "<p>" + full.description + "<\p>" + "<\a>";
+          return "<a href=\"" + full.link + "\">" + full.title + " " + full.language + "<br>" + "<p>" + full.description + "</p>" + "</a>";
         }
       },
       {
