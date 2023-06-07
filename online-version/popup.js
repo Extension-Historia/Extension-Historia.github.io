@@ -29,19 +29,7 @@ $(document).ready(function() {
       {
         data: 'link',
         title: 'Link'
-      },
-      {
-        data: 'tag_auxiliary',
-        title: 'Auxiliary discipline'
-      },
-      {
-        data: 'tag_genre',
-        title: 'Genre'
-      },
-      {
-        data: 'tag_wtype',
-        title: 'Website type'
-      },
+      }
     ],
     columnDefs: [{
         target: 0,
@@ -66,25 +54,13 @@ $(document).ready(function() {
       {
         target: 5,
         visible: false,
-      },
-      {
-        target: 6,
-        visible: false,
-      },
-      {
-        target: 7,
-        visible: false,
-      },
-      {
-        target: 8,
-        visible: false,
-      },
+      }
     ],
     paging: false,
     ordering: false,
     info: true,
     "language": {
-      "info": "Showing _TOTAL_ from _MAX_ entries",
+      "info": "Showing _TOTAL_ of _MAX_ entries",
       "infoFiltered": "",
       "infoEmpty": ""
     },
@@ -132,40 +108,6 @@ $(document).ready(function() {
 
   var table = $('#example').DataTable();
 
-  $('input:checkbox').on('change', function() {
-    //filter content auxiliary discipline
-    var checkbox_auxiliary = $('input:checkbox[name="auxiliary"]:checked').map(function() {
-      return this.value;
-    }).get().join('|');
-
-    table.column(6).search(checkbox_auxiliary, true, false, false).draw(false);
-
-    //filter content genre
-    var checkbox_genre = $('input:checkbox[name="genre"]:checked').map(function() {
-      return this.value;
-    }).get().join('|');
-
-    table.column(7).search(checkbox_genre, true, false, false).draw(false);
-
-
-    //filter content website type
-    var checkbox_wtype = $('input:checkbox[name="wtype"]:checked').map(function() {
-      return this.value;
-    }).get().join('|');
-
-    table.column(8).search(checkbox_wtype, true, false, false).draw(false);
-
-
-    //filter content language
-    var checkbox_lang = $('input:checkbox[name="lang"]:checked').map(function() {
-      return this.value;
-    }).get().join('|');
-
-    table.column(4).search(checkbox_lang, true, false, false).draw(false);
-
-
-
-  });
 
   oTable = $('#example').DataTable();
   $('#custom_searchbox').keyup(function() {
