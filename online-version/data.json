@@ -157,6 +157,18 @@
       "link": "http://ancientworldonline.blogspot.com/"
     },
     {
+      "title": "Andrist, P.: Les manuscrits grecs conservés à la Bibliothèque de la Bourgeoisie de Berne - Burgerbibliothek Bern. Règles de catalogage",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "http://www.codices.ch/catalogi/leges_2007.pdf"
+    },
+    {
+      "title": "Anemi Digital Library - The Digital Library of Modern Greek Studies",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://anemi.lib.uoc.gr/?&dtab=m&search_type=simple&search_help=&display_mode=&wf_step=init&show_hidden=0&number=10&keep_number=&cclterm1=&cclterm2=&cclterm3=&cclterm4=&cclterm5=&cclterm6=&cclterm7=&cclterm8=&cclfield1=&cclfield2=&cclfield3=&cclfield4=&cclfield5=&cclfield6=&cclfield7=&cclfield8=&cclop1=&cclop2=&cclop3=&cclop4=&cclop5=&cclop6=&cclop7=&isp=&display_help=0&offset=1&search_coll[metadata]=1&stored_cclquery=&skin=&rss=0&show_form=&export_method=none"
+    },
+    {
       "title": "ANNO Historische Zeitungen und Zeitschriften",
       "description": "A collection of newspapers from the 15th century to the 20th century, powered by the <i>Österreichische Nationalbibliothek (National Library of Austria)</i>.",
       "language": "<tg>German</tg>",
@@ -179,6 +191,12 @@
       "description": "A database of information regarding journals / periodicals in general for research purposes in specific Belgian libraries.",
       "language": "<tg>Dutch</tg>",
       "link": "https://anet.be/opac/opacantilope"
+    },
+    {
+      "title": "Aphrodisias in Late Antiquity (ALA) - The Late Roman and Byzantine Inscriptions",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://insaph.kcl.ac.uk/ala2004/index.html"
     },
     {
       "title": "Aquinas 101",
@@ -235,6 +253,12 @@
       "link": "https://www.archive.org"
     },
     {
+      "title": "Archive of Papers and Watermarks in Greek Manuscripts",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://abacus.bates.edu/wmarchive/"
+    },
+    {
       "title": "Les Archives de littérature du Moyen Âge (ARLIMA)",
       "description": "A website mainly for indexing French publications regarding the Middle Ages.",
       "language": "<tg>French</tg>",
@@ -275,6 +299,12 @@
       "description": "A search engine for archival facilities in Germany and digitized archival material mainly from modern history.",
       "language": "<tg>German</tg>",
       "link": "https://www.archivportal-d.de/?lang=de"
+    },
+    {
+      "title": "Arcinsys",
+      "description": "DES",
+      "language": "<tg>German</tg>",
+      "link": "https://www.arcinsys.de/"
     },
     {
       "title": "Aristarchus",
@@ -319,7 +349,7 @@
       "link": "https://aip.ulb.be/index.html#"
     },
     {
-      "title": "Atmospheric Circulation Reconstructions over the Earth",
+      "title": "Atmospheric Circulation Reconstructions over the Earth (ACRE)",
       "description": "A database for climate historical instrumental data of the last 200-250 years.",
       "language": "<tg>English</tg>",
       "link": "http://www.met-acre.org/"
@@ -637,6 +667,12 @@
       "link": "http://briquet-online.at/"
     },
     {
+      "title": "Byzantine News",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://byzantinenews.blogspot.com/"
+    },
+    {
       "title": "The Byzantine Review",
       "description": "The homepage of <i>The Byzantine Review</i>, a journal that reviews publications related to the research of the Byzantine Empire from Antiquity up to the 15th century.",
       "language": "<tg>German</tg>",
@@ -799,12 +835,6 @@
       "link": "http://storing.ingv.it/cfti/cfti5/"
     },
     {
-      "title": "Cistopedia, Encyclopedia Cisterciensis",
-      "description": "A project that collects anything related to the Cistercians.",
-      "language": "<tg>English</tg>",
-      "link": "https://www.cistopedia.org/"
-    },
-    {
       "title": "Chant Discography",
       "description": "A database for chant recordings, formerly known as <i>A Gregorian Chant Discography</i> which has been edited, revised, and published under the name of <i>Chant Discography</i>.",
       "language": "<tg>English</tg>",
@@ -859,10 +889,22 @@
       "link": "https://www.cbhe.hydrology.org.uk/"
     },
     {
+      "title": "Ciel & Terre",
+      "description": "DES",
+      "language": "<tg>French</tg> <tg>English</tg>",
+      "link": "http://expositions.bnf.fr/ciel/index2.htm"
+    },
+    {
       "title": "CIPEG",
       "description": "A collaboration website for egyptologists.",
       "language": "<tg>English</tg>",
       "link": "https://cipeg.icom.museum"
+    },
+    {
+      "title": "Cistopedia, Encyclopedia Cisterciensis",
+      "description": "A project that collects anything related to the Cistercians.",
+      "language": "<tg>English</tg>",
+      "link": "https://www.cistopedia.org/"
     },
     {
       "title": "Classical Latin Texts - The Packard Humanities Institute (PHI)",
@@ -947,6 +989,12 @@
       "description": "A journal for articles and reviews regarding the research of the Middle Ages as well as the Early Modern Period.",
       "language": "<tg>German</tg>",
       "link": "https://journals.ub.uni-heidelberg.de/index.php/cma/index"
+    },
+    {
+      "title": "Controversia et Confessio (C&C) - Quellenedition zur Bekenntnisbildung und Konfessionalisierung (1548-1580)",
+      "description": "DES",
+      "language": "<tg>German</tg>",
+      "link": "https://www.controversia-et-confessio.de/"
     },
     {
       "title": "Convertisseurs vers Unicode (IFAO))",
@@ -1099,6 +1147,12 @@
       "link": "http://catalogue.conductus.ac.uk/#m-columnbrowser@||m-informationcontrol@url=html/home.php"
     },
     {
+      "title": "Cult of Saints in Late Antiquity (CSLA)",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "http://csla.history.ox.ac.uk/"
+    },
+    {
       "title": "Current Epigraphy",
       "description": "This blog provides information about news, research and publications about epigraphy. The blog goes back to 2007 and is currently actively maintained.",
       "language": "<tg>English</tg>",
@@ -1115,6 +1169,12 @@
       "description": "A database of churches in Gothic style built before 1250 in the Paris Basin.",
       "language": "<tg>English</tg>",
       "link": "https://www.creationofgothic.org/index.php"
+    },
+    {
+      "title": "The Cresques Project",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://www.cresquesproject.net/"
     },
     {
       "title": "Crossroads",
@@ -1135,10 +1195,10 @@
       "link": "https://dafyddapgwilym.net/"
     },
     {
-      "title": "Database of Byzantine Book Epigrams",
-      "description": "A database of epigrams from Greek manuscripts of the Middle Ages.",
+      "title": "DanteSources",
+      "description": "DES",
       "language": "<tg>English</tg>",
-      "link": "https://www.dbbe.ugent.be/"
+      "link": "https://dantesources.dantenetwork.it/en/index.html"
     },
     {
       "title": "DARIAH-DE Geo-Browser",
@@ -1151,6 +1211,18 @@
       "description": "A database of the commentaries of Dante's <i>Commedia</i>.",
       "language": "<tg>English</tg>",
       "link": "https://dante.dartmouth.edu/"
+    },
+    {
+      "title": "Database of Byzantine Book Epigrams",
+      "description": "A database of epigrams from Greek manuscripts of the Middle Ages.",
+      "language": "<tg>English</tg>",
+      "link": "https://www.dbbe.ugent.be/"
+    },
+    {
+      "title": "Database of Dedications to Saints in Medieval Scotland",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "http://saints.shca.ed.ac.uk/"
     },
     {
       "title": "Database of Early Dynastic inscriptions",
@@ -1303,6 +1375,12 @@
       "link": "https://dlc.iec.cat/"
     },
     {
+      "title": "Dictionaries of the Scots Language / Dictionars o the Scots Leid",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://dsl.ac.uk/"
+    },
+    {
       "title": "Diccionario Griego-Español (DGE)",
       "description": "The dictionary of <i>Greek-Spanish Canon lists</i> in its new version.",
       "language": "<tg>English</tg>",
@@ -1393,6 +1471,12 @@
       "link": "https://digitaldante.columbia.edu/"
     },
     {
+      "title": "The Digital Dead Sea Scrolls",
+      "description": "Online exhibition of the Jewish manuscripts, the so-called <i>Dead Sea Scrolls</i>, made digitally accessible by the Israel Museum.",
+      "language": "<tg>English</tg>",
+      "link": "http://dss.collections.imj.org.il/"
+    },
+    {
       "title": "Digital Edition of the Coptic Old Testament",
       "description": "A project dedicated to Coptic sources, containing a list of Coptic manuscripts, a publication list and references to other resources.",
       "language": "<tg>English</tg>",
@@ -1459,10 +1543,16 @@
       "link": "https://digitalmedievalist.wordpress.com/about/"
     },
     {
-      "title": "The Digital Dead Sea Scrolls",
-      "description": "Online exhibition of the Jewish manuscripts, the so-called <i>Dead Sea Scrolls</i>, made digitally accessible by the Israel Museum.",
+      "title": "Digital Nestle-Aland",
+      "description": "DES",
       "language": "<tg>English</tg>",
-      "link": "http://dss.collections.imj.org.il/"
+      "link": "http://nestlealand.uni-muenster.de/"
+    },
+    {
+      "title": "Digital Rolls and Fragments",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://digitalrollsandfragments.com/"
     },
     {
       "title": "Digital Scriptorium (DS)",
@@ -1481,6 +1571,12 @@
       "description": "A source database for classical Syriac text, encoded according to the TEI (= Text Encoding Initiative)",
       "language": "<tg>English</tg>",
       "link": "https://syriaccorpus.org/index.html"
+    },
+    {
+      "title": "The Digital Walters",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html"
     },
     {
       "title": "Das Digitale Bildarchiv des Bundesarchivs",
@@ -1651,6 +1747,12 @@
       "link": "https://emuseum.nich.go.jp/s"
     },
     {
+      "title": "eagle project (europeana)",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://www.eagle-network.eu/"
+    },
+    {
       "title": "Early Christian Writings",
       "description": "A list of early Christian texts with resources, reaching from ca. 30 AD to around 380 AD.",
       "language": "<tg>English</tg>",
@@ -1805,6 +1907,12 @@
       "description": "A database collecting names of immigrants who migrated to England from the Middle Ages up until the middle of the 16th century, based on historical sources.",
       "language": "<tg>English</tg>",
       "link": "https://www.englandsimmigrants.com/"
+    },
+    {
+      "title": "The English Renaissance in Context",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://web.archive.org/web/20220426000655/http://sceti.library.upenn.edu/sceti/furness/eric/index.cfm"
     },
     {
       "title": "Enigma - Unpuzzling difficult Latin readings in medieval manuscripts",
@@ -3349,6 +3457,12 @@
       "link": "http://pecia.blog.tudchentil.org/"
     },
     {
+      "title": "Manuscript Road Trip",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://manuscriptroadtrip.wordpress.com/"
+    },
+    {
       "title": "Manuscripta Mediaevalia",
       "description": "A collection of manuscripts, generally from German libraries. The site provides metadata description as well as further codicological / paleographical information.",
       "language": "<tg>German</tg>",
@@ -3389,6 +3503,12 @@
       "description": "A database dedicated to Gothic architecture in the 12th and 13th century, mostly in today's France and England.",
       "language": "<tg>English</tg>",
       "link": "https://mcid.mcah.columbia.edu/art-atlas/mapping-gothic/"
+    },
+    {
+      "title": "Mapping Manuscript Migrations",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://mappingmanuscriptmigrations.org/en/"
     },
     {
       "title": "Mapping Medieval Chester - Place and identity in an English borderland city c.1200-1500",
@@ -3763,6 +3883,12 @@
       "link": "https://www.m-dv.ru/"
     },
     {
+      "title": "Monumenta Asiae Minoris Antiqua XI - Monuments from Phrygia and Lykaonia",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "http://mama.csad.ox.ac.uk/index.html"
+    },
+    {
       "title": "Monumenta Musicae Byzantinae",
       "description": "A website dedicated to Byzantine chant studies.",
       "language": "<tg>English</tg>",
@@ -3779,6 +3905,12 @@
       "description": "A digital library that provides entire digitized books, manuscripts and other resources that can be found in the Bayerische Staatsbibliothek München (Munich, Germany).",
       "language": "<tg>German</tg>",
       "link": "https://www.digitale-sammlungen.de/de"
+    },
+    {
+      "title": "Myriobiblos library",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "http://www.myriobiblos.gr/texts/index_gen_en.html"
     },
     {
       "title": "Narrative Sources - The Narrative Sources from the Medieval Low Countries",
@@ -3821,6 +3953,12 @@
       "description": "An encyclopedia for archival studies, published as a freely accessible e-book.",
       "language": "<tg>German</tg>",
       "link": "https://nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf"
+    },
+    {
+      "title": "New Testament Virtual Manuscript Room (NTVMR)",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://ntvmr.uni-muenster.de/home"
     },
     {
       "title": "New York Public Library Digital Collections",
@@ -3973,6 +4111,12 @@
       "link": "https://www.heiligenlexikon.de/"
     },
     {
+      "title": "The Open Access Companion to the Canterbury Tales - a new way to learn about old books",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://opencanterburytales.dsl.lsu.edu/"
+    },
+    {
       "title": "openArtBrowser",
       "description": "An open data project to collect all pictoral historical sources.",
       "language": "<tg>English</tg>",
@@ -4081,16 +4225,28 @@
       "link": "https://aku-pal.uni-mainz.de/"
     },
     {
-      "title": "Paleographie-Online",
+      "title": "Paläographie-Online",
       "description": "An online cours intended for students who want to learn to decipher different scripts and paleographical components. For full usage registration is required.",
       "language": "<tg>German</tg>",
       "link": "http://www.palaeographie-online.de/login.php"
     },
     {
+      "title": "Paleografia Greca - The blog of Pyle",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://paleografia-greca.blogspot.com/"
+    },
+    {
       "title": "Paper Identification Database",
       "description": "A database for codicological or paleographical research of Nordic sources, especially focused on Finnish, Swedish and Estonian papers.",
-      "language": "English Finnish",
+      "language": "<tg>English</tg> <tg>Finnish</tg>",
       "link": "http://kronos.narc.fi/paperi/index_en.html"
+    },
+    {
+      "title": "PapPal",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://www.pappal.info/"
     },
     {
       "title": "Papyri.info - Checklist of Editions of Greek, Latin, Demotic and Coptic Papyri, Ostraca and Tablets",
@@ -4109,6 +4265,12 @@
       "description": "Formerly known as the <i>Parallel History Project on NATO and the Warsaw Pact</i>, this website is dedicated to declassified government documents, especially on the Cold War.",
       "language": "<tg>English</tg>",
       "link": "https://www.php.isn.ethz.ch/lory1.ethz.ch/index.html"
+    },
+    {
+      "title": "Parekbolai Παρεκβολαί - An Electronic Journal for Byzantine Literature",
+      "description": "Formerly known as the <i>Parallel History Project on NATO and the Warsaw Pact</i>, this website is dedicated to declassified government documents, especially on the Cold War.",
+      "language": "<tg>English</tg>",
+      "link": "https://ejournals.lib.auth.gr/parekbolai/about"
     },
     {
       "title": "Parker Library On the Web",
@@ -4223,6 +4385,12 @@
       "description": "A special reading tool made for the entries of <i>Perseus Digital Library</i>.",
       "language": "<tg>English</tg>",
       "link": "https://scaife.perseus.org/"
+    },
+    {
+      "title": "Petrarchive - An edition of Petrarch’s songbook Rerum vulgarium fragmenta",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://dcl.ils.indiana.edu/petrarchive/"
     },
     {
       "title": "PhiloBiblon",
@@ -4453,6 +4621,12 @@
       "link": "https://www.rialfri.eu/"
     },
     {
+      "title": "Repertorium Academicum (REPAC)",
+      "description": "DES",
+      "language": "<tg>German</tg>",
+      "link": "https://repac.ch/"
+    },
+    {
       "title": "Repertorium Academicum Germanicum (RAG)",
       "description": "The former version of <i>Repertorium Academicum (REPAC)</i>, collecting data about scholars of the Holy Roman Empire between mid 13th and mid 16th century.",
       "language": "<tg>German</tg>",
@@ -4681,6 +4855,12 @@
       "link": "http://sequentia.huma-num.fr/search"
     },
     {
+      "title": "Sermones.net - Édition électronique d'un corpus de sermons latins médiévaux",
+      "description": "DES",
+      "language": "<tg>French</tg>",
+      "link": "http://sermones.net/"
+    },
+    {
       "title": "Seungjoengwon ilgi 승정원일기 承政院日記 - The Daily Records of Royal Secretariat of Joseon Dynasty",
       "description": "Digital version of the <i>Daily Records of Royal Secretariat of Joseon Dynasty</i>, a source of the Korean Joseon Dynasty (14th-20th century).",
       "language": "<tg>Korean</tg>",
@@ -4775,6 +4955,12 @@
       "description": "A project using digital technology to reconstruct the history and architecture of the Basilica of St. Paul Outside the Walls.",
       "language": "<tg>English</tg>",
       "link": "https://n2t.net/ark:/81428/v81593"
+    },
+    {
+      "title": "The Stemmaweb Project - Tools and techniques for empirical stemmatology",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://stemmaweb.net/"
     },
     {
       "title": "Stepmap",
@@ -4993,6 +5179,12 @@
       "link": "http://stephanus.tlg.uci.edu/"
     },
     {
+      "title": "Thesaurus Linguae Hibernicae (TLH)",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://www.ucd.ie/tlh/"
+    },
+    {
       "title": "Thesaurus Linguae Latinae (TLL)",
       "description": "A lexicon of Latin words. For the full version, institutional access might be needed.",
       "language": "<tg>English</tg>",
@@ -5155,6 +5347,12 @@
       "link": "https://usepigraphy.brown.edu/projects/usep/collections/"
     },
     {
+      "title": "UCLA Library Digital Collections",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://digital.library.ucla.edu/"
+    },
+    {
       "title": "UCLA scholarship open access",
       "description": "A database for articles of the University of California, Los Angeles (UCLA), US.",
       "language": "<tg>English</tg>",
@@ -5245,18 +5443,6 @@
       "link": "https://www.vaticanlibrary.va/"
     },
     {
-      "title": "VetusLatina.org - Resources for the Study of the Old Latin Bible",
-      "description": "A website dedicated to the Old Latin Bible, providing lists of manuscripts, abbreviations and many more.",
-      "language": "<tg>English</tg>",
-      "link": "http://www.vetuslatina.org/"
-    },
-    {
-      "title": "Verband der Historiker und Historikerinnen Deutschlands",
-      "description": "The blog of the association of German historians.",
-      "language": "<tg>German</tg>",
-      "link": "https://blog.historikerverband.de/"
-    },
-    {
       "title": "VD16",
       "description": "A database of printed books of the 16th century in German speaking regions.",
       "language": "<tg>German</tg>",
@@ -5275,10 +5461,28 @@
       "link": "https://kxp.k10plus.de/DB=1.65/DB=1.65/?COOKIE=U999,K999,D1.65,E08bd52c0-14,I0,B9994++++++,SY,QDEF,A,H12,,73,,76-78,,88-90,NGAST,R94.134.92.86,FN"
     },
     {
+      "title": "VetusLatina.org - Resources for the Study of the Old Latin Bible",
+      "description": "A website dedicated to the Old Latin Bible, providing lists of manuscripts, abbreviations and many more.",
+      "language": "<tg>English</tg>",
+      "link": "http://www.vetuslatina.org/"
+    },
+    {
+      "title": "Verband der Historiker und Historikerinnen Deutschlands",
+      "description": "The blog of the association of German historians.",
+      "language": "<tg>German</tg>",
+      "link": "https://blog.historikerverband.de/"
+    },
+    {
       "title": "명실록·청실록 明實錄·淸實錄 Veritable Records of the Ming / Veritable Records of the Qing",
       "description": "A database of historical records of the Ming and Qing dynasties.",
-      "language": "Korean Traditional Chinese",
+      "language": "<tg>Korean</tg> <tg>Traditional Chinese</tg>",
       "link": "http://sillok.history.go.kr/mc/main.do"
+    },
+    {
+      "title": "Viabundus",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://www.landesgeschichte.uni-goettingen.de/handelsstrassen/index.php"
     },
     {
       "title": "Virtual Catalog of Roman Coins (VCRC)",
