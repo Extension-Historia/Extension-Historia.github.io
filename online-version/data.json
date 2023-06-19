@@ -7,6 +7,12 @@
       "link": "https://1641.tcd.ie/"
     },
     {
+      "title": "18thConnect - Eighteenth-century Scholarship Online",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://18thconnect.org/"
+    },
+    {
       "title": "Abbildungsverzeichnis der europäischen Kaiser- und Königsurkunden",
       "description": "A project by LMU (Munich, Germany) for indexing charters of the Early and High Middle Ages of emperors and kings.",
       "language": "<tg>German</tg>",
@@ -169,6 +175,12 @@
       "link": "https://anemi.lib.uoc.gr/?&dtab=m&search_type=simple&search_help=&display_mode=&wf_step=init&show_hidden=0&number=10&keep_number=&cclterm1=&cclterm2=&cclterm3=&cclterm4=&cclterm5=&cclterm6=&cclterm7=&cclterm8=&cclfield1=&cclfield2=&cclfield3=&cclfield4=&cclfield5=&cclfield6=&cclfield7=&cclfield8=&cclop1=&cclop2=&cclop3=&cclop4=&cclop5=&cclop6=&cclop7=&isp=&display_help=0&offset=1&search_coll[metadata]=1&stored_cclquery=&skin=&rss=0&show_form=&export_method=none"
     },
     {
+      "title": "Anglo American Legal Tradtion (AALT) - Documents from Medieval and Early Modern England from the National Archives in London",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "http://aalt.law.uh.edu/"
+    },
+    {
       "title": "ANNO Historische Zeitungen und Zeitschriften",
       "description": "A collection of newspapers from the 15th century to the 20th century, powered by the <i>Österreichische Nationalbibliothek (National Library of Austria)</i>.",
       "language": "<tg>German</tg>",
@@ -281,6 +293,12 @@
       "description": "The website's name which translates to <i>Archive of the Pontifical Commission of Sacred Archaeology)</tg> is dedicated to the Christian Antiquity and contains a variety of archival materials including maps, photographs among other sources.",
       "language": "<tg>Italian</tg> <tg>English</tg>",
       "link": "http://www.archeologiasacra.net/pcas-web/home"
+    },
+    {
+      "title": "Archivum de Musica Medii Aevi (AdMMAe)",
+      "description": "DES",
+      "language": "<tg>French</tg>",
+      "link": "https://www.musmed.fr/AdMMAe/AdMMAe_index.htm"
     },
     {
       "title": "Archivum Laureshamense – digital",
@@ -625,6 +643,12 @@
       "link": "http://clt.brepolis.net/llta/Default.aspx"
     },
     {
+      "title": "Broken Books Digital Surrogate - The Beauvais Missal",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://brokenbooks2.omeka.net/exhibits/show/broken-books-digital-surrogate"
+    },
+    {
       "title": "Browzine",
       "description": "A journal library by the University of Ghent, Belgium.",
       "language": "<tg>English</tg>",
@@ -901,6 +925,12 @@
       "link": "https://cipeg.icom.museum"
     },
     {
+      "title": "Circulation of Knowledge and Learned Practices in the 17th-century Dutch Republic (CKCC)",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://ckcc.huygens.knaw.nl/"
+    },
+    {
       "title": "Cistopedia, Encyclopedia Cisterciensis",
       "description": "A project that collects anything related to the Cistercians.",
       "language": "<tg>English</tg>",
@@ -967,16 +997,40 @@
       "link": "https://www.sacred-texts.com/neu/ascp/"
     },
     {
+      "title": "Connected Clerics - Building a Universal Church in the Late Antique West (380-640 CE)",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://www.connectedclerics.com/"
+    },
+    {
       "title": "Correcteur Orthographique de Latin (COL) - Latin Spellchecker for Microsoft Windows (An DROUIZIG)",
       "description": "A spell checker for Latin. Although it says it was primarily developed for Windows, it supports open source text editors such as LibreOffice or OpenOffice as well.",
       "language": "<tg>English</tg>",
       "link": "http://drouizig.org/index.php/en/binviou-en/correttore-ortografico-di-latino/250-en-col-latin-spellchecker"
     },
     {
+      "title": "Collaborative European Digital Archival Research Infrastructure (CENDARI)",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "http://www.cendari.eu/"
+    },
+    {
       "title": "Collaborative Online Database and e-Resources for Celtic Studies (CODECS)",
       "description": "A database for manuscripts for the celtic studies. It is mainly intended as a catalogue and has no digitized open accessible historical sources so far.",
       "language": "<tg>English</tg>",
       "link": "https://codecs.vanhamel.nl/Home"
+    },
+    {
+      "title": "Collaborative Online Database and e-Resources for Celtic Studies (CODECS)",
+      "description": "A database for manuscripts for the celtic studies. It is mainly intended as a catalogue and has no digitized open accessible historical sources so far.",
+      "language": "<tg>English</tg>",
+      "link": "https://codecs.vanhamel.nl/Home"
+    },
+    {
+      "title": "CollectionBuilder",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://collectionbuilder.github.io/"
     },
     {
       "title": "Computational Historical Semantics",
@@ -1353,7 +1407,7 @@
     {
       "title": "DHI Rom catalog (Koha)",
       "description": "The Koha library catalog of the <i>Deutsches Historisches Institut Rom (DHI Rom)</i>.",
-      "language": "English German",
+      "language": "<tg>English</tg> <tg>German</tg>",
       "link": "https://dhi-roma.bsz-bw.de/"
     },
     {
@@ -1675,6 +1729,12 @@
       "link": "https://www.doaj.org/"
     },
     {
+      "title": "Dissident Networks Project",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://dissinet.cz/"
+    },
+    {
       "title": "Dizionario Biografico degli Italiani",
       "description": "This lexicon collects entries of Italian figures throughout Italian history.",
       "language": "<tg>Italian</tg>",
@@ -1951,10 +2011,16 @@
       "link": "https://epistolae.ctl.columbia.edu/"
     },
     {
+      "title": "Études Angevines",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://epistolae.ctl.columbia.edu/"
+    },
+    {
       "title": "Etymologisches Wörterbuch des Althochdeutschen (EWA)",
       "description": "An ethymological dictionary of Old High German, currently available from A to L.",
       "language": "<tg>German</tg>",
-      "link": "https://ewa.saw-leipzig.de/de"
+      "link": "https://angevine-europe.huma-num.fr/ea/fr"
     },
     {
       "title": "Euro-Climhist database",
@@ -3955,6 +4021,12 @@
       "link": "https://nestor.sub.uni-goettingen.de/handbuch/nestor-handbuch_23.pdf"
     },
     {
+      "title": "Networked Infrastructure for Nineteenth-Century Electronic Scholarship (NINES)",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://nines.org/"
+    },
+    {
       "title": "New Testament Virtual Manuscript Room (NTVMR)",
       "description": "DES",
       "language": "<tg>English</tg>",
@@ -4217,6 +4289,12 @@
       "description": "A collection of Greek inscriptions in a digitized and searchable format. Prior usage one must agree to their license.",
       "language": "<tg>English</tg>",
       "link": "http://epigraphy.packhum.org/inscriptions/"
+    },
+    {
+      "title": "Paixue - Classicising Learning in Medieval Imperial Systems: Cross-cultural Approaches to Byzantine Paideia and Tang/Song Xue",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://paixue.shca.ed.ac.uk/"
     },
     {
       "title": "Paläographie des Hieratischen und der Kursivhieroglyphen - AKU-PAL Paläographische Datenbank",
@@ -5129,6 +5207,12 @@
       "description": "A webpage dedicated to medieval historical sources of Christine de Pizan of the 14th / 15th century. The manuscripts are taken from BNF Paris, France. It has also a list of editions.",
       "language": "<tg>English</tg>",
       "link": "http://www.utm.edu/staff/bobp/vlibrary/christine.shtml"
+    },
+    {
+      "title": "The Thanatos Archive - Early post mortem & memorial photography",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://thanatos.net/"
     },
     {
       "title": "Theban Mapping Project",
