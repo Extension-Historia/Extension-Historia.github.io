@@ -549,7 +549,7 @@
     {
       "title": "Biblioteca Nacional Digital (Biblioteca Nacional de Portugal)",
       "description": "The website of the national library of Portugal.",
-      "language": "Portuguese",
+      "language": "<tg>Portuguese</tg>",
       "link": "https://bndigital.bnportugal.gov.pt/"
     },
     {
@@ -3873,7 +3873,7 @@
     {
       "title": "Military Archives Ireland - Online Collections",
       "description": "The website of the <i>Military Archives</i> by the Defence Forces of Ireland / Óglaigh na héireann makes military documents of Ireland mostly of the 20th century accessible.",
-      "language": "English Irish",
+      "language": "<tg>English</tg> <tg>Irish</tg>",
       "link": "https://www.militaryarchives.ie/collections/online-collections/bureau-of-military-history-1913-1921"
     },
     {
