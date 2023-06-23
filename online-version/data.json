@@ -1034,7 +1034,7 @@
     },
     {
       "title": "Computational Historical Semantics",
-      "description": "The former version of the current <i>LTA Latin Text Archive</i>. The website helps to research Latin Texts by providing help in word frequency analytics as well as lexical analytics.",
+      "description": "The former version of the current <i>Latin Text Archive (LTA)</i>. The website helps to research Latin Texts by providing help in word frequency analytics as well as lexical analytics.",
       "language": "<tg>English</tg>",
       "link": "https://www.comphistsem.org/home.html"
     },
@@ -3277,7 +3277,7 @@
       "link": "http://www.thelatinlibrary.com/"
     },
     {
-      "title": "Latin Text Archive",
+      "title": "Latin Text Archive (LTA)",
       "description": "A database of Latin texts with features for text analysis.",
       "language": "<tg>English</tg>",
       "link": "https://lta.bbaw.de/"
@@ -5281,7 +5281,7 @@
       "link": "https://www.online.uni-marburg.de/fpmr/php/thelo/gn-html.php?gnid=2853292"
     },
     {
-      "title": "Thesaurus Musicarum Latinarum - Online Archive of Music Theory in Latin",
+      "title": "Thesaurus Musicarum Latinarum (TML) - Online Archive of Music Theory in Latin",
       "description": "A collection of sources for music in Latin from the Antiquity to the Early Modern Period.",
       "language": "<tg>English</tg>",
       "link": "https://chmtl.indiana.edu/tml/"
