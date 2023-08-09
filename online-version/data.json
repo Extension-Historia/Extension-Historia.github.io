@@ -1003,6 +1003,12 @@
       "link": "https://www.connectedclerics.com/"
     },
     {
+      "title": "Consensus",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://consensus.app/"
+    },
+    {
       "title": "Correcteur Orthographique de Latin (COL) - Latin Spellchecker for Microsoft Windows (An DROUIZIG)",
       "description": "A spell checker for Latin. Although it says it was primarily developed for Windows, it supports open source text editors such as LibreOffice or OpenOffice as well.",
       "language": "<tg>English</tg>",
