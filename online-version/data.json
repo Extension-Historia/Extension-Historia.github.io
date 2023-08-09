@@ -5855,6 +5855,12 @@
       "description": "A webpage dedicated to historical sources, research and researchers. The webpage is especially useful when working with digitized editions.",
       "language": "<tg>Simplified Chinese</tg>",
       "link": "https://www.kuizhangge.cn/"
+    },
+    {
+      "title": "Zhongguoshi yanjiu 中国史研究 [Journal of Chinese Historical Studies]",
+      "description": "DES",
+      "language": "<tg>Simplified Chinese</tg>",
+      "link": "http://zgsyj.ajcass.org/"
     }
   ]
 }
