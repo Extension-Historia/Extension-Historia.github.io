@@ -4891,6 +4891,12 @@
       "link": "https://sdbm.library.upenn.edu/"
     },
     {
+      "title": "Scholary Commons",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://scholarlycommons.obu.edu/"
+    },
+    {
       "title": "The Schøyen Collection - Manuscripts from around the world spanning 5000 years of human culture & civilisation",
       "description": "A collection of 840 manuscripts digitized with description from the private collection of Martin Schøyen, first established in the 20th century.",
       "language": "<tg>English</tg>",
@@ -5015,6 +5021,12 @@
       "description": "A collection of seals in the inventory of the <i>Monumenta Germaniae Historica (MGH)</i> for research of sigillography and charters.",
       "language": "<tg>German</tg>",
       "link": "https://data.mgh.de/databases/seals/bin/seal_list.html"
+    },
+    {
+      "title": "The Silk Road - The journal of the Silk Road House",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://edspace.american.edu/silkroadjournal/"
     },
     {
       "title": "Sinai Manuscripts Digital Library - A publication of St. Catherine's Monastery of the Sinai, Egypt",
