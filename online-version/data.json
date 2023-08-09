@@ -853,6 +853,12 @@
       "link": "http://www.bibalex.org/hellenisticstudies/VMuseum/default.aspx"
     },
     {
+      "title": "Central and Eastern European Library (CEEOL)",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://www.ceeol.com/"
+    },
+    {
       "title": "CFTI5Med Earthquake database Italy",
       "description": "A database of earthquakes based on historical sources in combination with Web-GIS technology for Italy.",
       "language": "<tg>English</tg>",
