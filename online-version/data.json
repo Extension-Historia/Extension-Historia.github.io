@@ -1729,16 +1729,22 @@
       "link": "https://diotima-doctafemina.org/"
     },
     {
+      "title": "Diplomata Belgica",
+      "description": "A database for charters of the medieval southern Low Countries.",
+      "language": "<tg>French</tg>",
+      "link": "https://www.diplomata-belgica.be/colophon_fr.html"
+    },
+    {
       "title": "Diplomatarium Danicum",
       "description": "DES",
       "language": "<tg>English</tg> <tg>Danish</tg>",
       "link": "https://diplomatarium.dk/english"
     },
     {
-      "title": "Diplomata Belgica",
-      "description": "A database for charters of the medieval southern Low Countries.",
-      "language": "<tg>French</tg>",
-      "link": "https://www.diplomata-belgica.be/colophon_fr.html"
+      "title": "Diplomatarium Norvegicum (dokumentasjonsprosjektet)",
+      "description": "DES",
+      "language": "<tg>English</tg> <tg>Norwegian</tg>",
+      "link": "https://www.dokpro.uio.no/dipl_norv/diplom_field_eng.html"
     },
     {
       "title": "Directory of Open Access Journals (DOAJ)",
