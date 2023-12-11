@@ -1729,6 +1729,12 @@
       "link": "https://diotima-doctafemina.org/"
     },
     {
+      "title": "Diplomatarium Danicum",
+      "description": "DES",
+      "language": "<tg>English</tg> <tg>Danish</tg>",
+      "link": "https://diplomatarium.dk/english"
+    },
+    {
       "title": "Diplomata Belgica",
       "description": "A database for charters of the medieval southern Low Countries.",
       "language": "<tg>French</tg>",
