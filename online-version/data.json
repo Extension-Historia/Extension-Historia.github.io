@@ -421,6 +421,12 @@
       "link": "https://mcem.iec.cat/?epigraf_m=1"
     },
     {
+      "title": "Base de données interactive - Manuscrits Grecs",
+      "description": "DES",
+      "language": "<tg>French</tg>",
+      "link": "https://pot-pourri.fltr.ucl.ac.be/manuscrits/GRECS/DEFAULT.HTM"
+    },
+    {
       "title": "Bayerische Staatsbibliotek München (BSB)",
       "description": "The homepage of the <i>Bayerische Staatsbibliothek</i> library in Munich, Germany.",
       "language": "<tg>German</tg>",
