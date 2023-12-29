@@ -3211,10 +3211,16 @@
       "link": "https://mittelalterliche-geschichte.de/"
     },
     {
-      "title": "Köbler, G.: Lateinisches Abkunfts- und Wirkungswörterbuch für Altertum und Mittelalter",
-      "description": "A dictionary for classical and medieval Latin.",
+      "title": "Kluge, M.: Mittelalterliche Geschichte. Digitale Studieneinführung",
+      "description": "An open access digital guide to the studies of the Middle Ages written by M. Kluge in German.",
       "language": "<tg>German</tg>",
-      "link": "http://www.koeblergerhard.de/Mittellatein-HP/VorwortMlat-HP.htm"
+      "link": "https://mittelalterliche-geschichte.de/"
+    },
+    {
+      "title": "Kodai moji shiryō kan 古代文字資料館 [Ancient Writing Library]",
+      "description": "DES",
+      "language": "<tg>Japanese</tg>",
+      "link": "https://kodaimoji.chowder.jp/index.html"
     },
     {
       "title": "Köbler, G.: Mittelniederdeutsches Wörterbuch",
