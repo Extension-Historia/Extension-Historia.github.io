@@ -4759,10 +4759,10 @@
       "link": "https://www.recensio.net/front-page-en"
     },
     {
-      "title": "Resources Huygens ING",
-      "description": "A publication list concerning the history of the Netherlands.",
-      "language": "<tg>Dutch</tg> <tg>English</tg>",
-      "link": "https://resources.huygens.knaw.nl/"
+      "title": "Reformationsportal Mitteldeutschland",
+      "description": "DES",
+      "language": "<tg>German</tg>",
+      "link": "http://www.reformationsportal.de/das-projekt"
     },
     {
       "title": "REFRAIN",
@@ -4859,6 +4859,12 @@
       "description": "A news platform for Belgian medievalists including an event calendar.",
       "language": "<tg>French</tg>",
       "link": "https://rmblf.be/"
+    },
+    {
+      "title": "Resources Huygens ING",
+      "description": "A publication list concerning the history of the Netherlands.",
+      "language": "<tg>Dutch</tg> <tg>English</tg>",
+      "link": "https://resources.huygens.knaw.nl/"
     },
     {
       "title": "Rerum Italicarum Scriptores (RIS)",
