@@ -2065,6 +2065,12 @@
       "link": "http://edh-www.adw.uni-heidelberg.de/home?lang=de"
     },
     {
+      "title": "EpiMedDat",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "http://epimeddat.net/index.php?title=EpiMedDat"
+    },
+    {
       "title": "Epistolae - Medieval Women's Latin Letters",
       "description": "A database of letters that were written by women or were addressed to women between the 4th and 13th century. The original text as well as a translation of the Latin text can be found.",
       "language": "<tg>English</tg>",
