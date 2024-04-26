@@ -3158,15 +3158,21 @@
     },
     {
       "title": "JapanKnowledge ジャパンナレッジ",
-      "description": " A database for dictionary and similar entries. The usage however is not free and requires registration.",
+      "description": "A database for dictionary and similar entries. The usage however is not free and requires registration.",
       "language": "<tg>Japanese</tg>",
       "link": "https://japanknowledge.com/"
     },
     {
       "title": "Japan Digital Archives Center ジャパン デジタル アーカイブズ センター (J-DAC)",
-      "description": " A digital archive for sources related to Japanese history.",
+      "description": "A digital archive for sources related to Japanese history.",
       "language": "<tg>Japanese</tg>",
       "link": "http://j-dac.jp/"
+    },
+    {
+      "title": "Japan Search",
+      "description": "DES",
+      "language": "<tg>English</tg>",
+      "link": "https://jpsearch.go.jp/"
     },
     {
       "title": "Jarrett, J.: A Corner of Tenth-Century Europe - Early medievalist's thoughts and ponderings",
