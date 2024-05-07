@@ -31,6 +31,7 @@ III. COLLECTED INFORMATION
 This add-on does not collect any information whatsoever from the user. Anything that the user typed into the search bar remains in the add-on itself. For privacy concerns, anyone is free to look into the source codes published online (see Github page).
 
 IV. FREE USAGE
+
 The add-on is and will always be free to use and to spread. In case of publications, please credit the project and developer accordingly.
 
 V. FURTHER INFORMATION & OPEN SOURCE CODES
