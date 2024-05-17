@@ -5251,6 +5251,30 @@
       "link": "https://nosketch-engine.lamop.fr/#concordance?corpname=CEMA&tab=advanced&structs=s&refs=%3Ddoc.id&selection=%7B%7D&operations=%5B%5D"
     },
     {
+      "title": "Society for Classical Studies (SCS)",
+      "description": "The homepage of the <i>SCS</i>, it provides e. g. a list of journals related to Classical Studies.",
+      "language": "<tg>English</tg>",
+      "link": "https://classicalstudies.org/"
+    },
+    {
+      "title": "Society for Song, Yuan, and Conquest Dynasties Studies (SSYCDS)",
+      "description": "An association for the study of Chinese, Khitan, Jurchen, Mongol and Tangut history with its own journal.",
+      "language": "<tg>English</tg>",
+      "link": "https://www.songyuan.org/index.html"
+    },
+    {
+      "title": "Some Notes on Medieval English Genealogy",
+      "description": "An information site including online resources on English Genealogy in the Middle Ages.",
+      "language": "<tg>English</tg>",
+      "link": "http://www.medievalgenealogy.org.uk/index.html"
+    },
+    {
+      "title": "Southeast Asia in the Ming shi-lu - An Open Access Resource",
+      "description": "",
+      "language": "<tg>English</tg>",
+      "link": "https://epress.nus.edu.sg/msl/"
+    },
+    {
       "title": "Spicilegium",
       "description": "An English journal for the European Middle Ages published by a Japanese society. One can download the journal articles via PDF.",
       "language": "<tg>English</tg>",
@@ -5261,6 +5285,24 @@
       "description": "A collection of Greek paper impressions / inscriptions known as <i>squeezes</i> for paleographical research.",
       "language": "<tg>English</tg>",
       "link": "https://www.csad.ox.ac.uk/squeeze-collection-0"
+    },
+        {
+      "title": "Südwestdeutsche Archivalienkunde (leo-bw)",
+      "description": "An informative site for the history of southwest Germany with the focus on archival studies.",
+      "language": "<tg>German</tg>",
+      "link": "https://www.leo-bw.de/themenmodul/sudwestdeutsche-archivalienkunde"
+    },
+    {
+      "title": "Südwestdeutscher Bibliotheksverbund Online Katalog (SWB)",
+      "description": "An online catalog of southwest German libraries.",
+      "language": "<tg>German</tg>",
+      "link": "https://swb.bsz-bw.de/DB=2.1/?COOKIE=Us998,Pbszgast,I2017,B20728+,SY,NRecherche-DB,D2.1,E12906241-4fe,A,H,R139.18.243.62,FY&COOKIE=Us998,Pbszgast,I2017,B20728+,SY,NRecherche-DB,D2.1,Effcc4ff4-1407,A,H,R95.90.210.97,FY"
+    },
+    {
+      "title": "Sutton, D. F.: An analytic bibliography of online neo-Latin texts",
+      "description": "An alphabetical list of freely accessible digitized neo-Latin texts.",
+      "language": "<tg>English</tg>",
+      "link": "https://philological.cal.bham.ac.uk/bibliography/"
     },
     {
       "title": "St. Stephen's Chapel, Westminster: Visual & Political Culture, 1292-1941",
@@ -5285,42 +5327,6 @@
       "description": "A tool to create maps.",
       "language": "<tg>German</tg>",
       "link": "https://www.stepmap.de/"
-    },
-    {
-      "title": "Südwestdeutsche Archivalienkunde (leo-bw)",
-      "description": "An informative site for the history of southwest Germany with the focus on archival studies.",
-      "language": "<tg>German</tg>",
-      "link": "https://www.leo-bw.de/themenmodul/sudwestdeutsche-archivalienkunde"
-    },
-    {
-      "title": "Südwestdeutscher Bibliotheksverbund Online Katalog (SWB)",
-      "description": "An online catalog of southwest German libraries.",
-      "language": "<tg>German</tg>",
-      "link": "https://swb.bsz-bw.de/DB=2.1/?COOKIE=Us998,Pbszgast,I2017,B20728+,SY,NRecherche-DB,D2.1,E12906241-4fe,A,H,R139.18.243.62,FY&COOKIE=Us998,Pbszgast,I2017,B20728+,SY,NRecherche-DB,D2.1,Effcc4ff4-1407,A,H,R95.90.210.97,FY"
-    },
-    {
-      "title": "Sutton, D. F.: An analytic bibliography of online neo-Latin texts",
-      "description": "An alphabetical list of freely accessible digitized neo-Latin texts.",
-      "language": "<tg>English</tg>",
-      "link": "https://philological.cal.bham.ac.uk/bibliography/"
-    },
-    {
-      "title": "Society for Classical Studies (SCS)",
-      "description": "The homepage of the <i>SCS</i>, it provides e. g. a list of journals related to Classical Studies.",
-      "language": "<tg>English</tg>",
-      "link": "https://classicalstudies.org/"
-    },
-    {
-      "title": "Society for Song, Yuan, and Conquest Dynasties Studies (SSYCDS)",
-      "description": "An association for the study of Chinese, Khitan, Jurchen, Mongol and Tangut history with its own journal.",
-      "language": "<tg>English</tg>",
-      "link": "https://www.songyuan.org/index.html"
-    },
-    {
-      "title": "Some Notes on Medieval English Genealogy ",
-      "description": "An information site including online resources on English Genealogy in the Middle Ages.",
-      "language": "<tg>English</tg>",
-      "link": "http://www.medievalgenealogy.org.uk/index.html"
     },
     {
       "title": "Staats- und Universitätsbibliothek Bremen - Digitale Sammlungen",
