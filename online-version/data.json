@@ -2653,6 +2653,12 @@
       "link": "https://db.itkc.or.kr/"
     },
     {
+      "title": "HANSdoc Database",
+      "description": "",
+      "language": "<tg>English</tg> <tg>German</tg>",
+      "link": "https://hansedoc.dsm.museum/Hansdoc.php"
+    },
+    {
       "title": "Hansischer Geschichtsverein e. V. - Recherche",
       "description": "A collection of publications concerning the research of the Hanseatic League.",
       "language": "<tg>German</tg>",
