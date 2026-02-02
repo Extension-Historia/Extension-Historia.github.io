@@ -511,16 +511,16 @@
       "link": "https://digiliblt.uniupo.it/"
     },
     {
-      "title": "Biblioteca Digital Hispánica Spanish",
-      "description": "An online library of sources, not only including written but also musical and photographical ones, powered by the <i>Biblioteca Nacional de España (National Library of Spain)</i>.",
-      "language": "<tg>Catalan</tg>",
-      "link": "http://www.bne.es/es/Catalogos/BibliotecaDigitalHispanica/Inicio/index.html"
-    },
-    {
       "title": "Biblioteca Italiana",
       "description": "A digital library dedicated to Italian historical sources of the Middle Ages up to the 20th century. A special focus is on printed books including incunabula among newer prints.",
       "language": "<tg>Italian</tg>",
       "link": "http://www.bibliotecaitaliana.it/"
+    },
+    {
+      "title": "Biblioteca Nacional de España Digital (BNE Digital)",
+      "description": "",
+      "language": "<tg>Spanish</tg>",
+      "link": "https://bnedigital.bne.es/bd/es/simple"
     },
     {
       "title": "Bibliotheca Augustana",
