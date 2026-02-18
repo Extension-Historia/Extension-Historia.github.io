@@ -4120,7 +4120,7 @@
       "title": "OGND",
       "description": "A database dedicated to the <i>Gemeinsame Normdatei (GND)</i> biographical information system. It can be used to identify different writing or transliteration systems for names, relationships of one person to others, geographical information as well as related works.",
       "language": "<tg>German</tg>",
-      "link": "https://swb.bsz-bw.de/DB=2.104/?COOKIE=Us998,Pbszgast,I2017,B20728+,SY,NRecherche-DB,D2.104,E161e30f2-1090,A,H,R95.91.50.167,FY&COOKIE=Us998,Pbszgast,I2017,B20728+,SY,NRecherche-DB,D2.104,E4c1e8824-2,A,H,R96.190.71.96,FY&COOKIE=Us998,Pbszgast,I2017,B20728+,SY,NRecherche-DB,D2.104,E35ca342b-2,A,H,R94.134.92.86,FY"
+      "link": "https://swb.bsz-bw.de/DB=2.104/START_WELCOME"
     },
     {
       "title": "Ohio State University Center for Epigraphical and Paleographical Studies - Collection Catalogs",
