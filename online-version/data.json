@@ -4684,7 +4684,7 @@
       "title": "Regesta Imperii Regesten",
       "description": "A digital version of the publication series of <i>Regesta Imperii (RI)</i> ranging from the 8th to the 16th century. The database provides regesta of the royal and papal charters in accordance with the charters edited by the Monumenta Germaniae Historica (MGH) series.",
       "language": "<tg>German</tg>",
-      "link": "http://www.regesta-imperii.de/regesten/suche.html?tx_hisodat_sources%5BsearchMode%5D=20&tx_hisodat_sources%5Baction%5D=searchform&tx_hisodat_sources%5Bcontroller%5D=Sources&cHash=e9ae64d170f9f48e80a3592af1425d2a#rinav"
+      "link": "https://www.regesta-imperii.de/regesten/suche.html"
     },
     {
       "title": "Regesta pontificum Romanorum",
