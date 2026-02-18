@@ -2743,12 +2743,6 @@
       "link": "https://www.hsozkult.de/"
     },
     {
-      "title": "Humanities Commons",
-      "description": "A platform for promoting researchers and their projects and works, similar to academia.edu and researchgate.",
-      "language": "<tg>English</tg>",
-      "link": "https://hcommons.org/"
-    },
-    {
       "title": "Huntington Digital Library",
       "description": "The digital collection section of Huntington Library.",
       "language": "<tg>English</tg>",
@@ -3197,6 +3191,12 @@
       "description": "An open access digital guide to the studies of the Middle Ages written by M. Kluge in German.",
       "language": "<tg>German</tg>",
       "link": "https://mittelalterliche-geschichte.de/"
+    },
+    {
+      "title": "Knowledge Commons",
+      "description": "A platform for promoting researchers and their projects and works, similar to academia.edu and researchgate. Formerly known as <i>Humanities Commons</i>.",
+      "language": "<tg>English</tg>",
+      "link": "https://hcommons.org/"
     },
     {
       "title": "Kodai moji shiryō kan 古代文字資料館 [Ancient Writing Library]",
