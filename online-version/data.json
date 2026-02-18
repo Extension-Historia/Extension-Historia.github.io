@@ -2809,6 +2809,12 @@
       "link": "https://iiif.biblissima.fr/collections/"
     },
     {
+      "title": "IKAR - Landkartendrucke Datenbank",
+      "description": "A database for cartography until 1850.",
+      "language": "<tg>German</tg>",
+      "link": "https://kxp.k10plus.de/DB=1.68/DB=1.68/LNG=DU/SRT=RLV/IMPLAND=Y/?COOKIE=U999,K999,D1.68,E08bd52c0-14,I0,B9994++++++,SY,QDEF,A,H12,,73,,76-78,,88-90,NGAST,R94.134.92.86,FN&COOKIE=U999,K999,D1.68,E08bd52c0-14,I0,B9994++++++,SY,QDEF,A,H12,,73,,76-78,,88-90,NGAST,R89.246.99.222,FN"
+    },
+    {
       "title": "Illinois Digital Archives",
       "description": "The digital collection section of the Illinois State Library and the Office of the Illinois Secretary of State.",
       "language": "<tg>English</tg>",
@@ -2929,16 +2935,10 @@
       "link": "https://www.internetculturale.it/"
     },
     {
-      "title": "IKAR - Landkartendrucke Datenbank",
-      "description": "A database for cartography until 1850.",
-      "language": "<tg>German</tg>",
-      "link": "https://kxp.k10plus.de/DB=1.68/DB=1.68/LNG=DU/SRT=RLV/IMPLAND=Y/?COOKIE=U999,K999,D1.68,E08bd52c0-14,I0,B9994++++++,SY,QDEF,A,H12,,73,,76-78,,88-90,NGAST,R94.134.92.86,FN&COOKIE=U999,K999,D1.68,E08bd52c0-14,I0,B9994++++++,SY,QDEF,A,H12,,73,,76-78,,88-90,NGAST,R89.246.99.222,FN"
-    },
-    {
-      "title": "Imagining Medieval Narrative: The Travels of Marco Polo",
-      "description": "A website dedicated to Marco Polo and cartography.",
-      "language": "<tg>English</tg> <tg>French</tg>",
-      "link": "https://scalar.usc.edu/works/the-travels-of-marco-polo/index"
+      "title": "Incunabula Shorttitle Catalogue (ISTC)",
+      "description": "A database for codicological research of 15th century prints aka incunabula.",
+      "language": "<tg>English</tg>",
+      "link": "https://data.cerl.org/istc/_search"
     },
     {
       "title": "Indian Ocean and Maritime Asia Slave Trade Databases (Dataverse, IISH Data Collection)",
@@ -2951,18 +2951,6 @@
       "description": "A database for theological and religion related research.",
       "language": "<tg>English</tg>",
       "link": "https://ixtheo.de/"
-    },
-    {
-      "title": "Incunabula Shorttitle Catalogue (ISTC)",
-      "description": "A database for codicological research of 15th century prints aka incunabula.",
-      "language": "<tg>English</tg>",
-      "link": "https://data.cerl.org/istc/_search"
-    },
-    {
-      "title": "Inscriptiones Graecae",
-      "description": "A collection of Greek digitized inscriptions. The roots of the project date back to the <i>Corpus Inscriptionum Graecarum</i> and <i>Inscriptiones Graecae</i> publication series of the 19th and 20th century.",
-      "language": "<tg>German</tg>",
-      "link": "http://telota.bbaw.de/ig/"
     },
     {
       "title": "Institut de recherche et d'histoire des textes (IRHT)",
@@ -3017,6 +3005,12 @@
       "description": "A digital library with an integrated hypertext system.",
       "language": "<tg>English</tg>",
       "link": "http://www.intratext.com/"
+    },
+    {
+      "title": "Imagining Medieval Narrative: The Travels of Marco Polo",
+      "description": "A website dedicated to Marco Polo and cartography.",
+      "language": "<tg>English</tg> <tg>French</tg>",
+      "link": "https://scalar.usc.edu/works/the-travels-of-marco-polo/index"
     },
     {
       "title": "Исторические источники на русском языке в Интернете",
