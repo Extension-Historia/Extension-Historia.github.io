@@ -5092,7 +5092,7 @@
       "title": "Südwestdeutscher Bibliotheksverbund Online Katalog (SWB)",
       "description": "An online catalog of southwest German libraries.",
       "language": "<tg>German</tg>",
-      "link": "https://swb.bsz-bw.de/DB=2.1/?COOKIE=Us998,Pbszgast,I2017,B20728+,SY,NRecherche-DB,D2.1,E12906241-4fe,A,H,R139.18.243.62,FY&COOKIE=Us998,Pbszgast,I2017,B20728+,SY,NRecherche-DB,D2.1,Effcc4ff4-1407,A,H,R95.90.210.97,FY"
+      "link": "https://swb.bsz-bw.de/DB=2.1/START_WELCOME"
     },
     {
       "title": "Sutton, D. F.: An analytic bibliography of online neo-Latin texts",
@@ -5110,7 +5110,7 @@
       "title": "St. Paul's Outside the Walls - A Virtual Basilica",
       "description": "A project using digital technology to reconstruct the history and architecture of the Basilica of St. Paul Outside the Walls.",
       "language": "<tg>English</tg>",
-      "link": "https://n2t.net/ark:/81428/v81593"
+      "link": "https://rcweb.dartmouth.edu/CamerlenghiN/VirtualBasilica/"
     },
     {
       "title": "The Stemmaweb Project - Tools and techniques for empirical stemmatology",
