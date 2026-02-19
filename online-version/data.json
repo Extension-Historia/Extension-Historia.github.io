@@ -5647,12 +5647,6 @@
       "link": "https://watermark.kb.nl/default/search/advanced/"
     },
     {
-      "title": "Web of Science (WoS)",
-      "description": "A platform of researchers and their works, similar to researchgate / academia.edu and other platforms. It is synced with ORCiD.",
-      "language": "<tg>English</tg>",
-      "link": "http://webofknowledge.com/WOS"
-    },
-    {
       "title": "Webis",
       "description": "A website dedicated to the literature and resource collections of German libraries.",
       "language": "<tg>German</tg>",
